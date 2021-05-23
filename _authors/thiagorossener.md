@@ -1,9 +1,10 @@
 ---
+title: Thiagorossener
+position: 0
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: "/assets/img/uploads/profile.png"
 name: thiagorossener
 display_name: Thiago Rossener
-position: Chief Editor
 bio: Just a developer.
 github_username: thiagorossener
 facebook_username: thiagorossener

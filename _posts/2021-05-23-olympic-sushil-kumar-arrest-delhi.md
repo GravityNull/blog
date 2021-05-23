@@ -1,20 +1,22 @@
 ---
-date: 2021-05-23 14:00:00
-layout: post
 title: மல்யுத்த வீரர் சுஷில் குமார் கொலை வழக்கில் கைது
+date: 2021-05-23 14:00:00 Z
+categories:
+- news
+tags:
+- news
+- sushil kumar
+- arrest
+- delhi
+- olympic
+layout: post
 subtitle: சக வீரரை கொலை செய்த வழக்கில் மல்யுத்த வீரர் சுஷில் குமார் கைது
-description:  சக வீரரை கொலை செய்த வழக்கில் மல்யுத்த வீரர் சுஷில் குமார் கைது
+description: சக வீரரை கொலை செய்த வழக்கில் மல்யுத்த வீரர் சுஷில் குமார் கைது
 image: https://i.ibb.co/h1NRq8n/Pics-Art-05-23-02-33-40.jpg
 optimized_image: https://i.ibb.co/h1NRq8n/Pics-Art-05-23-02-33-40.jpg
-category: news
-tags:
-  - news
-  - sushil kumar
-  - arrest
-  - delhi
-  - olympic
 author: roobank1
 ---
+
 ஒலிம்பிக்கில் 2 முறை பதக்கம் வென்ற இந்திய மல்யுத்த வீரர் சுஷில் குமாருக்கும், மல்யுத்த போட்டியின் முன்னாள் தேசிய சாம்பியனான மற்றொரு வீரர் சாகர் தங்கார் (வயது 23) என்பவருக்கும் முன்விரோதம் இருந்து வந்த நிலையில் கடந்த 4ந்தேதி டெல்லியில் உள்ள சத்ராசல் அரங்கில் இரு தரப்பினருக்கும் இடையே மோதல் ஏற்பட்டுள்ளது. சாகர் தங்கார் கடுமையாக தாக்கப்பட்டார். பலத்த காயமடைந்த சாகர் தங்காரை அவரது நண்பர் மருத்துவமனையில் சிகிச்சைக்காக சேர்த்துள்ளார். ஆனால், சிகிச்சை பலனின்றி சாகர் உயிரிழந்தார்.
 
 <blockquote class="twitter-tweet"><p lang="ta" dir="ltr">சக வீரரை கொலை செய்த வழக்கு- மல்யுத்த வீரர் சுஷில் குமார் கைது<a href="https://t.co/NnbYARCXuK">https://t.co/NnbYARCXuK</a><a href="https://twitter.com/hashtag/SushilKumar?src=hash&amp;ref_src=twsrc%5Etfw">#SushilKumar</a></p>&mdash; Maalai Malar News (@maalaimalar) <a href="https://twitter.com/maalaimalar/status/1396326611809538048?ref_src=twsrc%5Etfw">May 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
