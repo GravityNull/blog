@@ -1,23 +1,108 @@
----
-title: GravityNull
-timezone: UTC
+# Site Settings
+name: GravityNull 
+title: GravityNull 
+description: We do Cartoons & Fun :D
+tags:
+  - graviyunull
+  - blog
+  - teakadai
+  - cartoons
+  - roobank1
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: News
+    url: /news
+  - title: Cartoons
+    url: /cartoons
+  - title: Contact
+    url: /contact
+email: gravitynull@yandex.com
+# See: https://disqus.com/
+disqus_username: gravitynull
+# Contact Form Setting
+# See: https://formspree.io/
+formspree_form_id: mdoyebar
+
+
+# Social Media Settings
+# Remove the item if you don't need it
+github_username: gravitynull
+facebook_username: gravitynull
+twitter_username: gravitynull_in
+instagram_username: gravitynull
+linkedin_username: roobank
+
+
+# Posts Settings
+show_time_bar: true
+show_modal_on_exit: true
+show_modal_on_finish_post: true
+two_columns_layout: true
+
+
+# Advanced Settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
+language: "en"
+categories_folder: category
+sent_message_url: "/contact/message-sent/"
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
 collections:
-  posts:
-    title: Posts
+  authors:
     output: true
-  uploads:
-    title: Uploads
-    output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/posts/:title/"
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-permalink: pretty
+paginate_path: "/page/:num/"
+show_get_theme_btn: true
+use_logo: false
+
+# Content paginator
+paginate_content:
+  enabled: true
+  debug: false
+  collections:
+    - posts
+  auto: false
+  separator: "--page-break--"
+  permalink: "/:num/"
+  seo_canonical: true
+  properties:
+    part:
+      is_generated: true
+    last:
+      is_generated: true
+    single:
+      is_generated: true
+
+# SASS
+sass:
+  style: compressed
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-paginate-content
+
+# Exclude my node related stuff
+exclude: [
+  'package.json',
+  'package-lock.json',
+  'src',
+  'node_modules',
+  'initpost.sh',
+  'Gemfile',
+  'Gemfile.lock',
+  'gulpfile.js',
+  'README.md'
+]
+
+# Theme
+version: TeaKadai
