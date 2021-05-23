@@ -8,7 +8,7 @@ description: நவீன அலோபதி முட்டாள்தனம�
   மருத்துவர்கள் சங்கம் கண்டனம்!
 image: https://i.ibb.co/TcnMcF2/Pics-Art-05-23-01-57-14.jpg
 optimized_image: https://i.ibb.co/TcnMcF2/Pics-Art-05-23-01-57-14.jpg
-category: "{{slug}}"
+category: "News"
 tags:
   - baba ramdev
   - news
