@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/30115072-e758-446c-89df-46a0f83199b2/deploy-status)](https://app.netlify.com/sites/gravitynull/deploys)
-
 ### Hey guys, how are you? 🍽 🇧🇷
 
 As you know, this is a 100% free template, I earn nothing to maintain it. So, I have this idea and hope you can join me for a good cause.
