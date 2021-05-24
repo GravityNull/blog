@@ -2,7 +2,7 @@
 date: 2021-05-23 12:00:00 
 layout: post
 title: இந்திய மருத்துவர்கள் சங்கம் பாபா ராம்தேவ் கருத்துக்கு கண்டனம்!
-perma: baba-ramdev-indian medical association
+perma: baba-ramdev-indian-medical-association
 subtitle: நவீன அலோபதி முட்டாள்தனமானது.. பாபா ராம்தேவ் கருத்துக்கு இந்திய மருத்துவர்கள்
   சங்கம் கண்டனம்!
 description: நவீன அலோபதி முட்டாள்தனமானது.. பாபா ராம்தேவ் கருத்துக்கு இந்திய மருத்துவர்கள்
@@ -17,6 +17,7 @@ tags:
 author: roobank1
 paginate: true
 ---
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=baba-ramdev-indian medical association&count_bg=%230F0E0E&title_bg=%23000000&icon=reverbnation.svg&icon_color=%23FFFAFA&title=hits&edge_flat=true"/></a>                    
 
  புதுடெல்லியில் நேற்று(21-05-2021) நிகழ்ச்சி ஒன்றில் பங்கேற்ற பதஞ்சலி நிறுவனத்தின் ராம்தேவ் "**அலோபதி முட்டாள்தனமான மற்றும் தோல்வியடைந்த சிகிச்சை முறை. அலோபதி சிகிச்சை முறையால் லட்சக்கணக்கான மக்கள் உயிரிழந்துள்ளனர்... இது சிகிச்சை அளிக்கப்படாதது அல்லது ஆக்சிஜன் கிடைக்காததால் உயிரிழந்தவர்களை விட அதிகம்.**" என்று கூறினார்.
 
