@@ -3,9 +3,9 @@ date: 2021-05-24 17:01:05
 layout: post
 title: சென்னை PSBB பள்ளி மாணவர்களுக்கு பாலியல் தொல்லை
 perma: PSBB-teacher-accused-child-sexual-harassment
-subtitle: சென்னை பிஎஸ்பிபி பள்ளி மாணவர்களுக்கு பாலியல் தொல்லை - ஆசிரியர்,
+subtitle: சென்னை பிஎஸ்பிபி பள்ளி மாணவர்களுக்கு பாலியல் தொல்லை! ஆசிரியர்,
   நிர்வாகம் மீது நடவடிக்கை எடுக்க சமூகவலத்தில் பலரும் கோரிக்கை
-description: சென்னை பிஎஸ்பிபி பள்ளி மாணவர்களுக்கு பாலியல் தொல்லை - ஆசிரியர்,
+description: சென்னை பிஎஸ்பிபி பள்ளி மாணவர்களுக்கு பாலியல் தொல்லை! ஆசிரியர்,
   நிர்வாகம் மீது நடவடிக்கை எடுக்க சமூகவலத்தில் பலரும் கோரிக்கை
 image: https://lh3.googleusercontent.com/pw/ACtC-3eL0CJI81ttPRIWyuOJmBBOsMPpKRkbGVx6oB8ZqWzUAQLT2w9LU7MHz3YITXtZC_uONUg8gVgq_tqa-bq5RZ759XOEnM0KEW53gQ3RovJFji90KU9RtcyUXlxouX040BXJ51A81RS-V65g1j9C3UfKWg=w1129-h635-no?authuser=0
 optimized_image: https://lh3.googleusercontent.com/pw/ACtC-3eL0CJI81ttPRIWyuOJmBBOsMPpKRkbGVx6oB8ZqWzUAQLT2w9LU7MHz3YITXtZC_uONUg8gVgq_tqa-bq5RZ759XOEnM0KEW53gQ3RovJFji90KU9RtcyUXlxouX040BXJ51A81RS-V65g1j9C3UfKWg=w1129-h635-no?authuser=0
@@ -29,7 +29,7 @@ paginate: false
 
 சென்னையில் இருக்கும் பி.எஸ். பி.பி. எனும் பிரபல பள்ளியில் வேலை செய்யும் ராஜகோபாலன் என்கிற ஆசிரியர் தன்னிடம் பயிலும் மாணவிகளுக்கு பாலியல் தொல்லை கொடுப்பதாக புகார் எழுந்திருக்கிறது. அந்த பள்ளியில் படித்த மாணவிகள் சிலரும் இதை சமூக வலைதளங்களில் உறுதி செய்துள்ளனர். அந்த ஆசிரியர் குளித்துவிட்டு வெறும் துண்டுடன் ஆன்லைன் வகுப்பிற்கு வந்து மாணவிகள் முன்பு நின்ற புகைப்படம் வெளியாகியிருக்கிறது.
 <a href="https://tamil.samayam.com/tamil-cinema/movie-news/sexual-harassment-complaint-against-psbb-teacher-chinmayi-supports-students/articleshow/82902749.cms" target="_blank">
-** @SAMAYAM**
+<br><b>@SAMAYAM</b>
 </a>
 
 
@@ -37,7 +37,7 @@ paginate: false
 
 இதுகுறித்து சம்பந்தப்பட்ட பள்ளி நிர்வாகத்திடம் விளக்கம் கேட்க பல தடவை முயற்சி செய்தோம். ஆனால் அவர்கள் தரப்பிலிருந்து எந்தவித பதிலும் கிடைக்கவில்லை. பள்ளி நிர்வாகத்தின் விளக்கத்தையும் பரிசீலனைக்குப்பிறகு வெளியிட தயாராக இருக்கிறோம்.
 <a href="https://www.vikatan.com/news/crime/student-complaint-against-teacher-in-chennai" target="_blank">
-** @VIKATAN**
+<br><b>@VIKATAN</b>
 </a>
 
 <!--EndFragment-->
@@ -101,9 +101,7 @@ paginate: false
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">T:W sexual harrasment.<br>The screenshots of victims harassed by teachers of <a href="https://twitter.com/hashtag/Psbb?src=hash&amp;ref_src=twsrc%5Etfw">#Psbb</a> who have not been helped by the heads even after reporting!<br>HELP.<a href="https://twitter.com/bhakisundar?ref_src=twsrc%5Etfw">@bhakisundar</a> <a href="https://twitter.com/Chinmayi?ref_src=twsrc%5Etfw">@Chinmayi</a> <a href="https://twitter.com/mkstalin?ref_src=twsrc%5Etfw">@mkstalin</a> <a href="https://twitter.com/DhivCM?ref_src=twsrc%5Etfw">@DhivCM</a> <a href="https://t.co/ZHMftQIBlx">pic.twitter.com/ZHMftQIBlx</a></p>&mdash; Charulatha Rangarajan (@charuturfo) <a href="https://twitter.com/charuturfo/status/1396519260558479364?ref_src=twsrc%5Etfw">May 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--EndFragment-->
-
 - - -
-
 <a href="https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWl0NS12c2tvQU1FWlFCSENoeXRJT3RLQUFQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen" target="_blank">
-**Source & Full Coverage Link**
+<b>Source & Full Coverage Link</b>
 </a>
