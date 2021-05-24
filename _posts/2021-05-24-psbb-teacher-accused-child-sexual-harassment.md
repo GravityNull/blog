@@ -29,7 +29,7 @@ paginate: false
 
 சென்னையில் இருக்கும் பி.எஸ். பி.பி. எனும் பிரபல பள்ளியில் வேலை செய்யும் ராஜகோபாலன் என்கிற ஆசிரியர் தன்னிடம் பயிலும் மாணவிகளுக்கு பாலியல் தொல்லை கொடுப்பதாக புகார் எழுந்திருக்கிறது. அந்த பள்ளியில் படித்த மாணவிகள் சிலரும் இதை சமூக வலைதளங்களில் உறுதி செய்துள்ளனர். அந்த ஆசிரியர் குளித்துவிட்டு வெறும் துண்டுடன் ஆன்லைன் வகுப்பிற்கு வந்து மாணவிகள் முன்பு நின்ற புகைப்படம் வெளியாகியிருக்கிறது.
 <a href="https://tamil.samayam.com/tamil-cinema/movie-news/sexual-harassment-complaint-against-psbb-teacher-chinmayi-supports-students/articleshow/82902749.cms" target="_blank">
-**Source: @SAMAYAM**
+** @SAMAYAM**
 </a>
 
 
@@ -37,7 +37,7 @@ paginate: false
 
 இதுகுறித்து சம்பந்தப்பட்ட பள்ளி நிர்வாகத்திடம் விளக்கம் கேட்க பல தடவை முயற்சி செய்தோம். ஆனால் அவர்கள் தரப்பிலிருந்து எந்தவித பதிலும் கிடைக்கவில்லை. பள்ளி நிர்வாகத்தின் விளக்கத்தையும் பரிசீலனைக்குப்பிறகு வெளியிட தயாராக இருக்கிறோம்.
 <a href="https://www.vikatan.com/news/crime/student-complaint-against-teacher-in-chennai" target="_blank">
-**Source: @VIKATAN**
+** @VIKATAN**
 </a>
 
 <!--EndFragment-->
