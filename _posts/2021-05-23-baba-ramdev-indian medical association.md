@@ -9,7 +9,7 @@ description: நவீன அலோபதி முட்டாள்தனம�
   சங்கம் கண்டனம்!
 image: https://i.ibb.co/TcnMcF2/Pics-Art-05-23-01-57-14.jpg
 optimized_image: https://i.ibb.co/TcnMcF2/Pics-Art-05-23-01-57-14.jpg  
-categories: news
+category: news
 tags:
 - baba ramdev
 - news
