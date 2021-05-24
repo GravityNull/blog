@@ -17,7 +17,7 @@ tags:
 author: roobank1
 paginate: true
 ---
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=baba-ramdev-indian-medical-association&count_bg=%230F0E0E&title_bg=%23000000&icon=reverbnation.svg&icon_color=%23FFFAFA&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=baba-ramdev-indian-medical-association&count_bg=%230F0E0E&title_bg=%23000000&icon=reverbnation.svg&icon_color=%23FFFAFA&title=views&edge_flat=true)
 
  புதுடெல்லியில் நேற்று(21-05-2021) நிகழ்ச்சி ஒன்றில் பங்கேற்ற பதஞ்சலி நிறுவனத்தின் ராம்தேவ் "**அலோபதி முட்டாள்தனமான மற்றும் தோல்வியடைந்த சிகிச்சை முறை. அலோபதி சிகிச்சை முறையால் லட்சக்கணக்கான மக்கள் உயிரிழந்துள்ளனர்... இது சிகிச்சை அளிக்கப்படாதது அல்லது ஆக்சிஜன் கிடைக்காததால் உயிரிழந்தவர்களை விட அதிகம்.**" என்று கூறினார்.
 
