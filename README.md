@@ -1,3 +1,8 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9e3be6fd-c0fa-40c2-b25f-0dd1af2ca8e8/deploy-status)](https://app.netlify.com/sites/gravitynull/deploys)
+
+------
+# A Note from this theme Developer :)
+
 ### Hey guys, how are you? 🍽 🇧🇷
 
 As you know, this is a 100% free template, I earn nothing to maintain it. So, I have this idea and hope you can join me for a good cause.
