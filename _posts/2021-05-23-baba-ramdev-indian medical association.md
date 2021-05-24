@@ -1,20 +1,19 @@
 ---
-title: இந்திய மருத்துவர்கள் சங்கம் பாபா ராம்தேவ் கருத்துக்கு கண்டனம்!
 date: 2021-05-23 12:00:00 
-perma: baba-ramdev-indian medical association
-categories:
-- news
-tags:
-- baba ramdev
-- news
-- corona
 layout: post
+title: இந்திய மருத்துவர்கள் சங்கம் பாபா ராம்தேவ் கருத்துக்கு கண்டனம்!
+perma: baba-ramdev-indian medical association
 subtitle: நவீன அலோபதி முட்டாள்தனமானது.. பாபா ராம்தேவ் கருத்துக்கு இந்திய மருத்துவர்கள்
   சங்கம் கண்டனம்!
 description: நவீன அலோபதி முட்டாள்தனமானது.. பாபா ராம்தேவ் கருத்துக்கு இந்திய மருத்துவர்கள்
   சங்கம் கண்டனம்!
 image: https://i.ibb.co/TcnMcF2/Pics-Art-05-23-01-57-14.jpg
-optimized_image: https://i.ibb.co/TcnMcF2/Pics-Art-05-23-01-57-14.jpg
+optimized_image: https://i.ibb.co/TcnMcF2/Pics-Art-05-23-01-57-14.jpg  
+categories: news
+tags:
+- baba ramdev
+- news
+- corona  
 author: roobank1
 paginate: true
 ---
