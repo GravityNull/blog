@@ -17,6 +17,8 @@ tags:
 author: roobank1
 paginate: false
 ---
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=PSBB-teacher-accused-child-sexual-harassment&count_bg=%230F0E0E&title_bg=%23000000&icon=reverbnation.svg&icon_color=%23FFFAFA&title=views&edge_flat=true)
+
 சென்னை பி.எஸ்.பி.பி பள்ளியில் ஒரு ஆசிரியர் (வணிகவியல்) மாணவர்களை பாலியல் துன்புறுத்தல் செய்வதாக எழுந்துள்ள புகார் என்னை அதிர்ச்சிக்குள்ளாக்கியது. சம்பந்தப்பட்டவர்களை விசாரித்து குற்றம் செய்தவர் மீதும், அதை கண்டுகொள்ளாத பள்ளி நிர்வாகத்தின் மீதும் உடனடியாக நடவடிக்கை எடுக்கவேண்டும். இதை சம்பந்தப்பட்ட அதிகாரிகளிடம் கொண்டு செல்வேன் என்று உறுதியளிக்கிறேன்.
 
 <!--StartFragment-->
