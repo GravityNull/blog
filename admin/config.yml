@@ -37,7 +37,7 @@ collections:
     name: "posts"
     folder: "_posts"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{perma}}"
     preview_path: "{{perma}}"
     extension: "md"
     fields:
