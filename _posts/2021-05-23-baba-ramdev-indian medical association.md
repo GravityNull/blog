@@ -1,8 +1,9 @@
 ---
 title: இந்திய மருத்துவர்கள் சங்கம் பாபா ராம்தேவ் கருத்துக்கு கண்டனம்!
-date: 2021-05-23 12:00:00 Z
+date: 2021-05-23 12:00:00 
+perma: baba-ramdev-indian medical association
 categories:
-- News
+- news
 tags:
 - baba ramdev
 - news
