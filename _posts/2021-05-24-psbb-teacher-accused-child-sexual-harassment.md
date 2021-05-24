@@ -9,7 +9,7 @@ description: சென்னை பிஎஸ்பிபி பள்ளி ம�
   நிர்வாகம் மீது நடவடிக்கை எடுக்க சமூகவலத்தில் பலரும் கோரிக்கை
 image: https://lh3.googleusercontent.com/pw/ACtC-3eL0CJI81ttPRIWyuOJmBBOsMPpKRkbGVx6oB8ZqWzUAQLT2w9LU7MHz3YITXtZC_uONUg8gVgq_tqa-bq5RZ759XOEnM0KEW53gQ3RovJFji90KU9RtcyUXlxouX040BXJ51A81RS-V65g1j9C3UfKWg=w1129-h635-no?authuser=0
 optimized_image: https://lh3.googleusercontent.com/pw/ACtC-3eL0CJI81ttPRIWyuOJmBBOsMPpKRkbGVx6oB8ZqWzUAQLT2w9LU7MHz3YITXtZC_uONUg8gVgq_tqa-bq5RZ759XOEnM0KEW53gQ3RovJFji90KU9RtcyUXlxouX040BXJ51A81RS-V65g1j9C3UfKWg=w1129-h635-no?authuser=0
-category: blog
+category: news
 tags:
   - news
   - psbb
