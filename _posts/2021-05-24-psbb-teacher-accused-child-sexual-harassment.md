@@ -79,18 +79,14 @@ paginate: false
 
 <!--EndFragment-->
 
-<b>
-
-<a href="https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWl0NS12c2tvQU1FWlFCSENoeXRJT3RLQUFQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen" target="_blank">
-Source & Full Coverage
-<a>
-
-<b>
-
-
-
 <!--StartFragment-->
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">T:W sexual harrasment.<br>The screenshots of victims harassed by teachers of <a href="https://twitter.com/hashtag/Psbb?src=hash&amp;ref_src=twsrc%5Etfw">#Psbb</a> who have not been helped by the heads even after reporting!<br>HELP.<a href="https://twitter.com/bhakisundar?ref_src=twsrc%5Etfw">@bhakisundar</a> <a href="https://twitter.com/Chinmayi?ref_src=twsrc%5Etfw">@Chinmayi</a> <a href="https://twitter.com/mkstalin?ref_src=twsrc%5Etfw">@mkstalin</a> <a href="https://twitter.com/DhivCM?ref_src=twsrc%5Etfw">@DhivCM</a> <a href="https://t.co/ZHMftQIBlx">pic.twitter.com/ZHMftQIBlx</a></p>&mdash; Charulatha Rangarajan (@charuturfo) <a href="https://twitter.com/charuturfo/status/1396519260558479364?ref_src=twsrc%5Etfw">May 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--EndFragment-->
+
+- - -
+
+<a href="https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWl0NS12c2tvQU1FWlFCSENoeXRJT3RLQUFQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen" target="_blank">
+**Source & Full Coverage Link**
+</a>
