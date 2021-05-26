@@ -87,7 +87,7 @@ body {
   }
 
   .get-theme {
-    display: block;
+    display: none;
     font-size: rem(13px);
     font-weight: bold;
     text-decoration: none;
@@ -97,13 +97,10 @@ body {
     border-radius: rem(5px);
     float: right;
     margin: rem(5px) rem(15px) rem(5px) rem(5px);
-    
-    @include media(">=sm") 
-    {
+
+    @include media(">=sm", "<sm") {
       display: inline-block;
     }
-    
-    
   }
 }
 
