@@ -87,7 +87,7 @@ body {
   }
 
   .get-theme {
-    display: none;
+    display: inline-block;
     font-size: rem(13px);
     font-weight: bold;
     text-decoration: none;
@@ -98,6 +98,7 @@ body {
     float: right;
     margin: rem(5px) rem(15px) rem(5px) rem(5px);
 
+    
     
   }
 }
