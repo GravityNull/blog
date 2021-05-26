@@ -1,7 +1,7 @@
 ---
 date: 2021-05-24 17:01:05
 layout: post
-title: சென்னை PSBB பள்ளி மாணவர்களுக்கு பாலியல் தொல்லை
+title: சென்னை PSBB பள்ளி மாணவர்களுக்கு பாலியல் தொல்லை | விரிவான தொகுப்பு
 perma: PSBB-teacher-accused-child-sexual-harassment
 subtitle: சென்னை பிஎஸ்பிபி பள்ளி மாணவர்களுக்கு பாலியல் தொல்லை! ஆசிரியர்,
   நிர்வாகம் மீது நடவடிக்கை எடுக்க சமூகவலத்தில் பலரும் கோரிக்கை
@@ -103,6 +103,18 @@ paginate: false
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">T:W sexual harrasment.<br>The screenshots of victims harassed by teachers of <a href="https://twitter.com/hashtag/Psbb?src=hash&amp;ref_src=twsrc%5Etfw">#Psbb</a> who have not been helped by the heads even after reporting!<br>HELP.<a href="https://twitter.com/bhakisundar?ref_src=twsrc%5Etfw">@bhakisundar</a> <a href="https://twitter.com/Chinmayi?ref_src=twsrc%5Etfw">@Chinmayi</a> <a href="https://twitter.com/mkstalin?ref_src=twsrc%5Etfw">@mkstalin</a> <a href="https://twitter.com/DhivCM?ref_src=twsrc%5Etfw">@DhivCM</a> <a href="https://t.co/ZHMftQIBlx">pic.twitter.com/ZHMftQIBlx</a></p>&mdash; Charulatha Rangarajan (@charuturfo) <a href="https://twitter.com/charuturfo/status/1396519260558479364?ref_src=twsrc%5Etfw">May 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--EndFragment-->
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Ashok Nagar All Women Police in the early hours of Tuesday arrested G Rajagopalan, the <a href="https://twitter.com/hashtag/PSBB?src=hash&amp;ref_src=twsrc%5Etfw">#PSBB</a> school teacher accused of sexual harassment. He was brought to a magistrate who remanded him in judicial custody. <a href="https://twitter.com/NovinstonLobo?ref_src=twsrc%5Etfw">@NovinstonLobo</a><a href="https://t.co/TXUUSJnybj">https://t.co/TXUUSJnybj</a></p>&mdash; TNIE Tamil Nadu (@xpresstn) <a href="https://twitter.com/xpresstn/status/1397100155963273216?ref_src=twsrc%5Etfw">May 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/PSBB?src=hash&amp;ref_src=twsrc%5Etfw">#PSBB</a> issued a statement saying that the school had never &quot;received any written complaint&quot; following the arrest of their teacher <a href="https://twitter.com/hashtag/GRajagopalan?src=hash&amp;ref_src=twsrc%5Etfw">#GRajagopalan</a> on charges of <a href="https://twitter.com/hashtag/sexualharassment?src=hash&amp;ref_src=twsrc%5Etfw">#sexualharassment</a>.<a href="https://twitter.com/SushmithaRam?ref_src=twsrc%5Etfw">@SushmithaRam</a> <a href="https://twitter.com/xpresstn?ref_src=twsrc%5Etfw">@xpresstn</a> <a href="https://t.co/sUuHCjHw3i">https://t.co/sUuHCjHw3i</a></p>&mdash; The New Indian Express (@NewIndianXpress) <a href="https://twitter.com/NewIndianXpress/status/1397199525807149056?ref_src=twsrc%5Etfw">May 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tamil Nadu Minister of School Education <a href="https://twitter.com/hashtag/AnbilMaheshPoyyamozhi?src=hash&amp;ref_src=twsrc%5Etfw">#AnbilMaheshPoyyamozhi</a> said that the government is mulling setting up a committee to exclusively handle complaints of <a href="https://twitter.com/hashtag/sexualabuse?src=hash&amp;ref_src=twsrc%5Etfw">#sexualabuse</a> and harassment from school students.<a href="https://twitter.com/SushmithaRam?ref_src=twsrc%5Etfw">@SushmithaRam</a> <a href="https://twitter.com/xpresstn?ref_src=twsrc%5Etfw">@xpresstn</a> <a href="https://t.co/nxme2NvDML">https://t.co/nxme2NvDML</a></p>&mdash; The New Indian Express (@NewIndianXpress) <a href="https://twitter.com/NewIndianXpress/status/1397186271181787140?ref_src=twsrc%5Etfw">May 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Once proven Arrest is better, under <a href="https://twitter.com/hashtag/POCSO?src=hash&amp;ref_src=twsrc%5Etfw">#POCSO</a> <a href="https://twitter.com/hashtag/PSBB?src=hash&amp;ref_src=twsrc%5Etfw">#PSBB</a> Same school , different incident ,poor administration !<a href="https://t.co/8v2EqrCAqm">https://t.co/8v2EqrCAqm</a></p>&mdash; Live n Let Live ! Compassion matters ! (@harivrs) <a href="https://twitter.com/harivrs/status/1396781292583211016?ref_src=twsrc%5Etfw">May 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">in 2012 at PSBB, 10 year old boy drowned in the swimming pool and dead.<br>just an eye wash arrest and nothing happened as usual.<a href="https://t.co/dz8aEDHBSC">https://t.co/dz8aEDHBSC</a></p>&mdash; Seenivasan (@SrivasanM) <a href="https://twitter.com/SrivasanM/status/1397101286915559425?ref_src=twsrc%5Etfw">May 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 - - -
 <a href="https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWl0NS12c2tvQU1FWlFCSENoeXRJT3RLQUFQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen" target="_blank">
 <b>Source & Full Coverage Link</b>
