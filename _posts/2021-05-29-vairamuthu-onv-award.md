@@ -1,7 +1,7 @@
 ---
 date: 2021-05-29 15:04:40
 layout: post
-title: சர்ச்சைகளை தொடர்ந்ததால் வைரமுத்தின் ONV விருது மறுபரிசீலனை செய்யப்படுகிறது...
+title: சர்ச்சைகள் தொடர்ந்ததால் வைரமுத்தின் ONV விருது மறுபரிசீலனை செய்யப்படுகிறது...
 perma: vairamuthu-onv-award
 subtitle: மே 28ஆம் தேதி ONV Cultural Academy சார்பில் வெளியிட்டுள்ள அறிக்கையில்,
   வைரமுத்தின் ONV விருது விருது குறித்து மறு பரிசீலனை செய்யப்போவதாக
@@ -22,7 +22,7 @@ tags:
 author: roobank1
 paginate: true
 ---
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=PSBB-teacher-accused-child-sexual-harassment&count_bg=%230F0E0E&title_bg=%23000000&icon=reverbnation.svg&icon_color=%23FFFAFA&title=views&edge_flat=true)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=vairamuthu-onv-award&count_bg=%230F0E0E&title_bg=%23000000&icon=reverbnation.svg&icon_color=%23FFFAFA&title=views&edge_flat=true)
 
 வைரமுத்து மீது நடவடிக்கை எடுக்காதது ஏன்? கனிமொழியிடம் சீறும் சின்மயி!!
 
@@ -47,7 +47,17 @@ paginate: true
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Actress Parvathy <a href="https://twitter.com/parvatweets?ref_src=twsrc%5Etfw">@parvatweets</a> calls out award jury and expresses her distaste after <a href="https://twitter.com/hashtag/Metoo?src=hash&amp;ref_src=twsrc%5Etfw">#Metoo</a> accused Tamil Lyricist <a href="https://twitter.com/hashtag/Vairamuthu?src=hash&amp;ref_src=twsrc%5Etfw">#Vairamuthu</a> was selected for <a href="https://twitter.com/hashtag/Kerala?src=hash&amp;ref_src=twsrc%5Etfw">#Kerala</a>&#39;s prestigious <a href="https://twitter.com/hashtag/ONVAward?src=hash&amp;ref_src=twsrc%5Etfw">#ONVAward</a>. She says 17 women have accused Vairamuthu of sexual harassment so far. <a href="https://twitter.com/hashtag/Parvathy?src=hash&amp;ref_src=twsrc%5Etfw">#Parvathy</a> <a href="https://twitter.com/hashtag/ONV?src=hash&amp;ref_src=twsrc%5Etfw">#ONV</a> <a href="https://t.co/kwBnR4uJmi">pic.twitter.com/kwBnR4uJmi</a></p>&mdash; DT Next (@dt_next) <a href="https://twitter.com/dt_next/status/1397862946689093635?ref_src=twsrc%5Etfw">May 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Parvathy?src=hash&amp;ref_src=twsrc%5Etfw">#Parvathy</a> slammed the jury of the ONV literary award for ignoring the <a href="https://twitter.com/hashtag/MeToo?src=hash&amp;ref_src=twsrc%5Etfw">#MeToo</a> accusations against Tamil songwriter and poet <a href="https://twitter.com/hashtag/Vairamuthu?src=hash&amp;ref_src=twsrc%5Etfw">#Vairamuthu</a> and choosing to honour him. <a href="https://t.co/D2TDzDbwd6">https://t.co/D2TDzDbwd6</a></p>&mdash; Indian Express Entertainment 😷 (@ieEntertainment) <a href="https://twitter.com/ieEntertainment/status/1397925559577944067?ref_src=twsrc%5Etfw">May 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+இந்நிலையில் அவர் மீதான  குற்றச்சாட்டுகளை முன்வைத்து பாடகி சின்மயி, நடிகை பார்வதி உள்ளிட்டோர் இவ்விருதுக்கு எதிர்ப்பு தெரிவித்தனர். இதையடுத்து வைரமுத்துவுக்கு விருது வழங்குவது தொடர்பாக மறுபரிசீலனை செய்யவுள்ளதாக ஓ.என்.வி கலாச்சார மையம் நேற்று அறிவித்தது.
+<br>
+<a href="http://www.puthiyathalaimurai.com/newsview/104432/Vairamuthu-has-said-that-he-will-return-the-ONV-Literary-Award-" target="_blank">@Puthiyathalaimurai</a>
+
+கேரளாவின் மிக உயரிய இலக்கிய விருதான ஓஎன்வி விருதை திருப்பி அளிக்கிறேன் என்று கவிஞர்  வைரமுத்து அறிவித்துள்ளார். விருதுக்கான பரிசுத்தொகை ரூ.3 லட்சத்தை கேரள முதல்வர் நிவாரண நிதிக்கு அளித்திடுங்கள் என அவர் தெரிவித்துள்ளார்...
+<br>
+<a href="https://www.dinakaran.com/News_Detail.asp?Nid=680301" target="_blank">@Dinakaran</a>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">ONV Cultural Academy to reconsider award to Vairamuthu after massive row<a href="https://twitter.com/hashtag/Vairamuthu?src=hash&amp;ref_src=twsrc%5Etfw">#Vairamuthu</a><a href="https://t.co/c75aSLQ0Lq">https://t.co/c75aSLQ0Lq</a></p>&mdash; The News Minute (@thenewsminute) <a href="https://twitter.com/thenewsminute/status/1398164282123030531?ref_src=twsrc%5Etfw">May 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
