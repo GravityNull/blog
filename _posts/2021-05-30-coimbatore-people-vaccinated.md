@@ -1,7 +1,7 @@
 ---
 date: 2021-05-30 11:45:12
 layout: post
-title: "Coimbatore: More than 5.5 lakh people have been vaccinated @TOI"
+title: கோவை மாவட்டத்தில் இதுவரை 5 லட்சம் பேருக்கு கொரோனா தடுப்பூசி போடப்பட்டு உள்ளது.
 perma: "coimbatore-people-vaccinated "
 subtitle: "Times of India: More than 5.5 lakh people have been vaccinated in the
   Coimbatore district as of 28th May 2021, one of the highest vaccination rates
@@ -21,6 +21,9 @@ author: roobank1
 paginate: true
 ---
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=vairamuthu-onv-award&count_bg=%230F0E0E&title_bg=%23000000&icon=reverbnation.svg&icon_color=%23FFFAFA&title=views&edge_flat=true)
+
+<blockquote class="embedly-card" data-card-key="0cce2b7a99da4e6c8e5e029e9802a0a3" data-card-type="article-full"><h4><a href="https://www.dailythanthi.com/amp/News/Districts/2021/05/28233206/The-public-is-interested-in-getting-vaccinated-against.vpf">கோவேக்சின் தடுப்பூசி போட்டுக் கொள்ள பொதுமக்கள் ஆர்வம்</a></h4><p>கோவேக்சின் தடுப்பூசி போட்டுக் கொள்ள பொதுமக்கள் ஆர்வம் கோவை மாவட்டத்தில் 47 மையங்களிலும் பொதுமக்கள் ஆர்வமுடன் கோவேக்சின் தடுப்பூசி போட்டுக்கொண்டனர். நாடு முழுவதும் கொரோனா தொற்றை கட்டுப்படுத்த கோவிஷீல்டு மற்றும் கோவேக்சின் தடுப்பூசிகள் பொதுமக்களுக்கு போடப்பட்டு வருகிறது. இதில் 45 வயதிற்கு மேற்பட்டவர்கள் கோவேக்சின் தடுப்பூசி போட்டுக்கொள்ள ஆர்வம் காட்டி வருகின்றனர். ஆனால் போதிய அளவு இருப்பு இல்லாததால் கடந்த சில வாரங்களாக கோவேக்சின் தடுப்பூசி போடப்படாமல் இருந்து வந்தது.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 Coimbatore: More than 5.5 lakh people have been vaccinated in the district as of Thursday, one of the highest vaccination rates in the state so far.
 <br>
@@ -58,6 +61,6 @@ Total Vaccination Doses (30 May 2021)
 
 
 - - -
-<a href="https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWlEcEtMeGtvQU1FZGlMZ2d2bXM1R0xLQUFQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen" target="_blank">
+<a href="https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWp1aG9ieWtvQU1FVzh0MVpFRnM0N1NLQUFQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen" target="_blank">
 <b>Source & Full Coverage Link</b>
 </a>
