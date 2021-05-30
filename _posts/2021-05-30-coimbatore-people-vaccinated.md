@@ -60,10 +60,17 @@ Total Vaccination Doses (30 May 2021)
 
 ***5,80,380***
 
-**Dose 1** : 4,59,444
+Dose 1:
 
-**Dose 2** : 1,20,936
-<br>
+***4,59,444***
+
+
+
+Dose 2: 
+
+***1,20,936***
+
+Source: <br>
 <a href="https://dashboard.cowin.gov.in/" target="_blank">@Cowin Data</a>
 
 
