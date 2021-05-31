@@ -14,8 +14,16 @@ author: roobank1
 ---
 
 ------------
-<a href="https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWkxeWR2cWtvQU1FZmxmakhxUU92aEJLQUFQAQ?oc=3&ceid=IN:en " target="_blank">
-**Source & Full Coverage Link**
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=www.gravitynull.in&count_bg=%230F0E0E&title_bg=%23000000&icon=reverbnation.svg&icon_color=%23FFFAFA&title=views&edge_flat=true)
+
+
+Source: <br>
+<a href="#URL" target="_blank">@data</a>
+
+
+- - -
+<a href="#URL" target="_blank">
+<b>Source & Full Coverage Link</b>
 </a>
 
 
