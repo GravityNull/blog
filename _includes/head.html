@@ -54,18 +54,7 @@
     
     {% if site.twitter_username %}
         <meta name="twitter:site" content="@{{ site.twitter_username }}">
-    {% endif %}
-
-  
-  
-  
-  
- <!-- COMMON TAGS -->
-<script src="https://www.gravitynull.in/script.js" defer></script>  
-<script src="https://www.gravitynull.in/sw.js" defer></script>  
-<link rel='manifest' href='https://www.gravitynull.in/manifest.json'>
-<link rel="canonical" href="https://www.gravitynull.in/"> 
-  
+    {% endif %}  
   
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -138,10 +127,10 @@
     <link rel="canonical" href="{{ url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}" />
     
-    <link rel="manifest" href="{{ "/manifest.json" | prepend: site.baseurl | prepend: site.url }}" />
-    <script type="text/javascript" src="{{ "/script.js" | prepend: site.baseurl | prepend: site.url }}"></script>
-    <script type="text/javascript" src="{{ "/serviceworker.js" | prepend: site.baseurl | prepend: site.url }}"></script>
-    <script type="text/javascript" src="{{ "/sw.js" | prepend: site.baseurl | prepend: site.url }}"></script>
+    <link rel="manifest" href="{{ "/manifest.json" | prepend: site.baseurl }}" />
+    <script type="text/javascript" src="{{ "/script.js" | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" src="{{ "/serviceworker.js" | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" src="{{ "/sw.js" | prepend: site.baseurl }}"></script>
 
     <!-- Include extra styles -->
     {% include extra-css.html %}
