@@ -114,7 +114,7 @@ version: TeaKadai
 
 pwa:
   sw_filename: sw.js
-  dest_js_directory: js
+  dest_js_directory: /
   cache_name: pwa-cache
   precache_recent_posts_num: 12
   precache_glob_directory: /
