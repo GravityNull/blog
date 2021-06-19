@@ -137,6 +137,11 @@
     <link rel="stylesheet" href="{{ '/assets/css/styles.css' | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}" />
+    
+    <link rel="manifest" href="{{ "/manifest.json" | prepend: site.baseurl | prepend: site.url }}" />
+    <script type="text/javascript" src="{{ "/script.js" | prepend: site.baseurl | prepend: site.url }}"></script>
+    <script type="text/javascript" src="{{ "/serviceworker.js" | prepend: site.baseurl | prepend: site.url }}"></script>
+    <script type="text/javascript" src="{{ "/sw.js" | prepend: site.baseurl | prepend: site.url }}"></script>
 
     <!-- Include extra styles -->
     {% include extra-css.html %}
@@ -145,6 +150,6 @@
     <script>
         document.querySelector('html').classList.remove('no-js');
     </script>
-    
+ 
 
 </head>
