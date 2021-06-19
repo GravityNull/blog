@@ -1,17 +1,16 @@
+---
+layout: none
+---
 {
   "name": "GravityNull",
   "short_name": "gravitynull.in",
   "description": "Cartoons & Flash News",
   "start_url": "https://www.gravitynull.in/"
-
   "theme_color": "black",
   "background_color": "white",
   "display": "standalone",
   "start_url": "/",
   "prompt_message": "Cartoons & Flash News",
-  "related_applications" : "",
-  "prefer_related_applications" : "false",
-  "generated" : "true",
   "icons": [
   
     {
@@ -29,12 +28,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "display": "standalone",
-  "background_color": "white",
-  "theme_color": "black",
-  "start_url": "/",  
-  "scope": "/app/",
-  "display": "standalone",
-}
+        ],
 }
