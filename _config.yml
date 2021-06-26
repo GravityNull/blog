@@ -24,7 +24,7 @@ menu:
   - title: Live News
     url: /news   
   - title: GravityNull TeaKadai
-    url: https://news.gravitynull.in/
+    url: /teakadai
 email: gravitynull@yandex.com
 # See: https://disqus.com/
 disqus_username: gravitynull
