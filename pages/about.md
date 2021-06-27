@@ -2,7 +2,7 @@
 title: About
 permalink: "/about/"
 layout: page
-description: Some description.
+description: GravityNull TeaKadai is a simple flash news web app, developed and maintained by Rooban K.
 ---
 
 <img class="img-rounded" src="https://cdn.glitch.com/e68e9bfc-04e8-4acb-91fc-4381e1c60480%2F9eiC-ks7_400x400.jpg?v=1620982926663" alt="Roobank1" width="200">
