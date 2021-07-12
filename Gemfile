@@ -7,4 +7,7 @@ gem "jekyll"
 gem "jekyll-paginate"
 gem "jekyll-paginate-content"
 gem "json"
-gen "jekyll-workbox-plugin"
+
+group :jekyll_plugins do
+  gem 'jekyll-workbox-plugin'
+end
