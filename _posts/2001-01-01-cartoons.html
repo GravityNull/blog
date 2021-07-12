@@ -6,13 +6,14 @@ tags:
 - tamil
 - news
 - live
-layout: page
+layout: live
 subtitle: Help us to run this blog Ads. free forever by your Donations
 description: Help us to run this blog Ads. free forever by your Donations
 image: https://i.ibb.co/mRmgvpD/Pics-Art-05-21-01-16-07.jpg
 optimized_image: https://i.ibb.co/mRmgvpD/Pics-Art-05-21-01-16-07.jpg
 author: roobank1
 ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <center>  
 <style>
@@ -64,13 +65,102 @@ body {
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .column {
-    -ms-flex: 100%;
-    flex: 100%;
-    max-width: 100%;
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
   }
 }
+
+body 
+{
+  font-family: Arial;
+}
+.donate
+{
+  background-image: linear-gradient(to right, #35aee8, #354be8);
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  font-size: 15px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.red1{
+  background-image: linear-gradient(to right, #F44336, #D32F2F);
+  border: none;
+  text-align: left;
+  color: white;
+  padding: 10px 10px;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.ivory{
+  background-image: linear-gradient(to right, white, ivory);
+  border: none;
+  text-align: left;
+  color: black;
+  padding: 5px 5px;
+  font-size: 12px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.coupon 
+{
+  border: 2px dotted #bbb;
+  width: 100%;
+  border-radius: 5px;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+.container 
+{
+  padding: 1px 2px;
+  background-image: linear-gradient(to right, ivory, white);
+}
+
+.promo 
+{
+  background: #ccc;
+  padding: 1px;
+}
+
+.expire 
+{
+  color: red;
+}  
+  
 </style>
+</head>
 <body>
+<left>
+  
+<div class="coupon" align="left">
+<div class="container" align="left">
+<b><img src="https://i.ibb.co/1dKY1Vm/Gravity-Null-logo.png" alt="Avatar" style="width:100px;"></b> 
+</div>
+<center>
+<div class="container" align="left"> 
+  
+<table>
+<td>
+<a href="/cartoons">
+<button class="red1">Help us to run <b>GravityNull 100% Ads. free</b></button></a>
+</td><td>
+<a href="upi://pay?pa=gravitynull@jio&pn=GRAVITYNULL&cu=INR" target="_blank">
+<button class="donate"><i class="fa fa-dollar"></i> <b>Donate via UPI</b> GravityNull@JIO </button></a>
+<td>
+</table>
+<a href="/cartoons">
+<button class="ivory"><b>Grab a free cartoon for all donations above Rs.25/-</b>
+<br>
+[Send your donation screenshot to any one of our social platforms listed below to grab your cartoon]
+</button>  
+</a>
+{% include tklink.html %}    
+</div>
+</div>
 
 <!-- Photo Grid -->
 <div class="row"> 
