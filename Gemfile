@@ -7,8 +7,3 @@ gem 'jekyll'
 gem 'jekyll-paginate'
 gem 'jekyll-paginate-content'
 gem 'json'
-
-group :jekyll_plugins do
-  gen 'jekyll-feed'
-  gem 'jekyll-workbox-plugin'
-end
