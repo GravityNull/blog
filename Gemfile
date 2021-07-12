@@ -1,9 +1,14 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "kramdown"
-gem "kramdown-parser-gfm"
-gem "rouge"
-gem "jekyll"
-gem "jekyll-paginate"
-gem "jekyll-paginate-content"
-gem "json"
+gem 'kramdown'
+gem 'kramdown-parser-gfm'
+gem 'rouge'
+gem 'jekyll'
+gem 'jekyll-paginate'
+gem 'jekyll-paginate-content'
+gem 'json'
+
+group :jekyll_plugins do
+  gen 'jekyll-feed'
+  gem 'jekyll-workbox-plugin'
+end
