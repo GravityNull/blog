@@ -14,7 +14,38 @@ optimized_image: https://i.ibb.co/mRmgvpD/Pics-Art-05-21-01-16-07.jpg
 author: roobank1
 ---
 
-<center>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSpdcHjvJ6mn_ExdAXpVo2rCKCq-n7vSiZz2aS4AJ2EbfovDBp-RwX65e5wxV0myBZftLLOC_iuxyBs/embed?start=true&loop=true&delayms=3000" frameborder="0" height="345px" allowfullscreen="false" mozallowfullscreen="false" webkitallowfullscreen="false"></iframe></center>
-</center>
+<button class="tablink" onclick="openPage('All', this, 'yellow')">
+<b>Cartoon Profiles</b> </button>
+::
+<button class="tablink" onclick="openPage('Social', this,'yellow' )" id="defaultOpen">
+<b>Concept Cartoons</b> </button>
+    
+<div id="All" class="tabcontent">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT2j9OZ0snAjhPUM9GD1-DdtxDoUPS87s0sIL4cICr-V8KGcV_hDfMvn0N8savAiYuukd3WoSp6GGje/embed?start=true&loop=true&delayms=3000" 
+frameborder="0" width="345px" height="234px"></iframe>
+</div>
 
+<div id="Social" class="tabcontent">
+<iframe src="https://docs.google.com/presentation/d/1u45y6pOuK7m4F-8vOhgWwmvoM0DylpZ8bi964mvnmLs/embed?start=true&loop=true&delayms=3000" 
+frameborder="0" width="345px" height="234px"></iframe>  
+</div>  
+  
+  
+<script>
+function openPage(pageName,elmnt,color) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablink");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].style.backgroundColor = "";
+  }
+  document.getElementById(pageName).style.display = "block";
+  elmnt.style.backgroundColor = color;
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
