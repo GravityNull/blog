@@ -35,7 +35,7 @@ paginate: true
 
 \*"In **August 2016**, UAE activist Ahmed Mansoor was targeted with Pegasus with a text message sent to his iPhone. We clicked on the link provided in the message and obtained three zero-day exploits for Apple iOS 9.3.3, as well as a copy of the Pegasus spyware. We disclosed the exploits to Apple, which quickly released a patch blocking the Pegasus spyware. According to our scans, all of the Pegasus servers we detected were shut down at least two days before we published our results." **~*** **[Citizenlab.ca](https://draft.blogger.com/blog/post/edit/3389969535589385158/2888603709029730628#)**
 
-###### [Citizenlab.ca](https://draft.blogger.com/blog/post/edit/3389969535589385158/2888603709029730628#) அறிக்கையின் படி GANGES என்ற பெயரில் அரசியல் சார்புடன் *signpetition \[dot]co* என்ற இணைய மற்றும் இதர தளங்களின் வாயிலாக இந்த தாக்குதல் நடந்து இருக்கக்கூடிய ஆதாரங்களை வெளியிட்டது. 
+###### [Citizenlab.ca](https://draft.blogger.com/blog/post/edit/3389969535589385158/2888603709029730628#) அறிக்கையின் படி GANGES என்ற பெயரில் அரசியல் சார்புடன் *signpetition \[dot]co* என்ற இணைய மற்றும் இதர தளங்களின் வாயிலாக இந்த தாக்குதல் நடந்து இருக்கக்கூடிய ஆதாரங்களை வெளியிட்டது. இந்த இணைய தாக்குதலினால் பாதிக்கப்பட்டு இருக்க கூடிய Service Providers பட்டியலையும் அவர்கள் இணைத்து உள்ளனர்...
 
 | ASN   | Description                            | Country |
 | ----- | -------------------------------------- | ------- |
@@ -61,13 +61,11 @@ paginate: true
 
 **July 2020**, the Israeli Court Refuses to Revoke Export License of Spyware Maker NSO An Israeli court said that there was not enough evidence that a human rights activist had been targeted. Amnesty International had said that the spyware was used against one of its employees. **~ [News Click](https://draft.blogger.com/blog/post/edit/3389969535589385158/2888603709029730628#)**
 
-2016 'யில் தொடங்கி 2017, 2018, 2019, 2020, 2021 வரை பல பத்திரிகையாளர்கள், தொழிலதிபர்கள், அரசியல்வாதிகள் என பலரும் இந்த Spyware 'யால் பாதிக்கப்பட்டும் பல இனைய பாதுகாப்பு மீறும் தாக்குதல் நடந்தும் அரசு இதனை தேசிய மற்றும் தனிநபர் பாதுகாப்பு விவகாரத்தில் சரிவர கவனிக்கவில்லையா அல்லது அரசும் இதற்க்கு உடந்தையா என்ற கேள்வியும் எழுகிறது! ஏன் இந்த சந்தேகம் என்பதையும் சற்று பாப்போம்...
+2016 'யில் தொடங்கி 2017, 2018, 2019, 2020, 2021 வரை பல பத்திரிகையாளர்கள், தொழிலதிபர்கள், அரசியல்வாதிகள் என பலரும் இந்த Spyware 'யால் பாதிக்கப்பட்டும் பல இனைய பாதுகாப்பை மீறும் தாக்குதல் நடந்தும் அதற்கான எதிர்வினைகளை ஆற்றாமல் மௌனம் காப்பதின் மூலம், அரசு இதனை தேசிய மற்றும் தனிநபர் பாதுகாப்பு விவகாரத்தில் சரிவர கவனிக்கவில்லையா என்ற ஐய்யமும் (அல்லது) அரசும் இதற்க்கு உடந்தையா என்ற கேள்வியும் எழுகிறது! 
 
 ### Pegasus Project:
 
 Forbidden Stories மற்றும் Amnesty International உடன் இனைந்து *Le Monde, The Guardian, Washington Post, Die Zeit, Suddeutsche Zeitung, The* *Wire உடன் மேலும் 10* Mexican, Arab and European செய்தி நாளிதலுடன் இனைந்து நடத்திய ஒரு புலனாய்வு தான் இந்த **‘Pegasus Project’**.
-
-"குறிப்பிட்ட நபர்கள் மீதான அரசாங்க கண்காணிப்பு தொடர்பான குற்றச்சாட்டுகளுக்கு எந்தவொரு உறுதியான அடிப்படையோ அல்லது ஆதரமமோ இல்லை. கடந்த காலங்களில், வாட்ஸ்அப்பில் **Pegasus 'ஐ** பயன் படுத்துவது தொடர்பாக இதேபோன்ற கூற்றுக்கள் இந்திய அரசால் கூறப்பட்டன. அந்த அறிக்கைகள் எந்தவொரு அடிப்படையான உண்மையும் கொண்டிருக்கவில்லை..” என ANI தனது பதிலில் அரசாங்கம் கூறியதாக மேற்கோளிட்டுள்ளது.
 
 The phone numbers of over **40 Indian journalists** appear on a leaked list of potential targets for surveillance, and forensic tests have confirmed that some of them were successfully snooped upon by an unidentified agency using Pegasus spyware, **The Wire** can confirm. 
 
@@ -82,7 +80,7 @@ The leaked data includes the numbers of top journalists at big media houses like
 * **Ashok Lavasa**, Former Election Commissioner who was the only election commissioner to fault Modi for violations of the model code of conduct in the lead up to the 2019 elections. [Read more: [Ashok Lavasa Placed on Snoop List as EC After Flagging Modi’s 2019 Poll Code Violations](https://thewire.in/government/pegasus-project-ashok-lavasa-narendra-modi-amit-shah-model-code-of-conduct "Ashok Lavasa Placed on Snoop List as EC After Flagging Modi's 2019 Poll Code Violations")]
 * **Abhishek Banerjee**, Trinamool Congress MP and national general secretary of the party
 * **Gagandeep Kang**, Scientist and **Virologist** who has been a key part of India’s battle against COVID-19, and selected for potential surveillance in 2018, when she was helping with the fight against the Nipah virus. 
-* **Hari Menon**, India head of the Bill and Melinda Gates Foundation, and at least one other foundation employee, who was selected in mid-2019. A health-sector non-profit and an official of the US Centre for Disease Control posted to India at the time were also potential targets of surveillance, reflecting a keen interest in people working in the health sector.
+* **Hari Menon**, India head of the Bill and Melinda Gates Foundation, and at least one other foundation employee, who was selected in mid-2019. A health-sector non-profit and an official of the US Centre for Disease Control posted to India at the time were also potential targets of surveillance, reflecting a keen interest in people working in the health sector. Kang is the first Indian woman to be elected as a Fellow of the Royal Society.
 * **Jagdeep Chokhar**, Head of Association of Democratic Reforms **(ADR)**
 * **Alankar Sawai**, Close aide of Congress leader Rahul Gandhi
 * **Sachin Rao**, Member of Congress Working Committee
@@ -130,7 +128,11 @@ The leaked data has also revealed that over 11 phone numbers belonging to the Su
 
 **[** *This list has been updated and some names removed as they had not consented to their names being made public but it was erroneously published by a foreign publication which is part of the project.* **] ~ [The PRINT](https://draft.blogger.com/blog/post/edit/3389969535589385158/2888603709029730628#)**
 
-**~**
+<!--StartFragment-->
+
+\`\`சர்ச்சை ஏற்படுத்த வேண்டும் எனத் திட்டமிட்டே மழைக்கால கூட்டத்தொடர் ஆரம்பிக்கும்போது இந்தத் தகவல் வெளியாகியிருப்பதாகவும், இது அடிப்படை ஆதாரமற்ற உண்மைக்குப் புறம்பான செய்தி என்றும், இந்தியர்களின் செல்போன்களை ஒட்டுக்கேட்கவோ, ஹேக் செய்யவோ நமது அரசியலமைப்புச் சட்டப்படி பல்வேறு துறைகளின் அனுமதி பெற வேண்டும் என்பதால், அது எளிதாக நடந்திருக்க வாய்ப்பில்லை" எனவும் மத்திய தகவல் தொழில்நுட்பத்துறை அமைச்சர் அஸ்வினி வைஷ்ணவ் நாடாளுமன்றத்தில் விளக்கம் அளித்திருக்கிறார். மேலும் \`\`இந்தியா பெகாசஸ் ஸ்பைவேரை பயன்படுத்தவேயில்லை” என மத்திய உள்துறை அமைச்சர் கூறியிருக்கிறார். ~ **[](https://www.nakkheeran.in/24-by-7-news/india/pegasus-spying-300-peoples-cell-phones-amit-shah-behind-conspiracy-congress)[Vikatan](https://www.vikatan.com/government-and-politics/politics/whats-the-truth-and-what-bjp-government-going-to-deal-on-pegasus-issue)``**
+
+டெல்லியில் செய்தியாளர்களைச் சந்தித்த காங்கிரஸ் செய்தி தொடர்பாளர் சுர்ஜேவாலா, இந்த சதிக்குப் பின்னால் இருப்பது உள்துறை அமைச்சர் அமித்ஷாதான் என்றும், அவரை உடனடியாக பதவி நீக்கம் செய்ய வேண்டும் என்றும் வலியுறுத்தியுள்ளார். இந்த விஷயத்தில் பிரதமர் மோடியின் பங்கு குறித்தும் விசாரணை மேற்கொள்ள வேண்டும் என வலியுறுத்தி கூறியுள்ள அவர், கடந்த 2019ஆம் ஆண்டு மாநிலங்களவையில், 127 பேரின் வாட்ஸ்அப் எண்கள் பெகாசஸ் உளவு செயலியின் மூலம் பார்க்கப்பட்டிருக்கலாம் என்று அப்போதைய தகவல் தொழில்நுட்பத்துறை அமைச்சராக இருந்த ரவிசங்கர் பிரசாத் கூறியிருந்தார். அது தொடர்பாக என்னென்ன நடவடிக்கைகள் எடுக்கப்பட்டது எனவும் காங்கிரஸ் தரப்பில் கேள்வி எழுப்பப்பட்டுள்ளது~ **[Nakkheeran](https://www.nakkheeran.in/24-by-7-news/india/pegasus-spying-300-peoples-cell-phones-amit-shah-behind-conspiracy-congress).**
 
 This is a developing article please follow it for updates.
 
