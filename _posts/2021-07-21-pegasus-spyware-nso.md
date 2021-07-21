@@ -18,6 +18,8 @@ paginate: true
 ---
 <!--StartFragment-->
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=pegasus-spyware-nso1212%2Fhit-counter&count_bg=%23000000&title_bg=%237E7E7E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
 கடந்த சில நாட்களாக சமூக வலைத்தளங்களில் பெரிதும் பேசுபொருளாக இருந்த ஒரு தலைப்பு "**PEGASUS**". பேசுபொருளாக மாறிய தலைப்பு என கடந்துபோகமல், அனைவராலும் பேசப்பட வேண்டிய தலைவலி பிடித்த **தாக்குதல்** இந்த "Project PEGASUS". ஆம் தாக்குதல் தான், இனிய வழி தாக்குதல். ஜனநாயகத்தின் தூண்களான பத்திரிக்கை, நீதி துறை, எதிர் கட்சி மட்டும் இல்லாமல் மருத்துவ துறை, மற்றும் பல தனிநபர்களின் மேல் தொடுக்கப்பட்ட தாக்குதல்.
 
 **செப்டம்பர் 2018**, [Citizenlab.ca](https://draft.blogger.com/blog/post/edit/3389969535589385158/2888603709029730628#) இணையதளம் வெளியிட்ட அறிக்கையில் 45 நாடுகளில் இந்த Pegasus spyware தாக்குதலினால் பாதிக்க்கப்பட்டு இருக்க கூடும் என்றும், அதில் 33 நாடுகள் **NSO '**வின் வாடிக்கையாளர்களும் அடங்குவர் என்று குறிப்பிட்டு இருந்தது.
@@ -71,8 +73,6 @@ The phone numbers of over **40 Indian journalists** appear on a leaked list of
 
 The leaked data includes the numbers of top journalists at big media houses like the Hindustan Times, including executive editor Shishir Gupta, India Today, Network18, The Hindu and Indian Express. **~ [The WIRE](https://draft.blogger.com/blog/post/edit/3389969535589385158/2888603709029730628#)** 
 
-
-
 **The list of political leaders and serving Union ministers whose phones were allegedly potential targets of surveillance:**
 
 * **Rahul Gandhi**, former Congress president
@@ -92,8 +92,6 @@ The leaked data includes the numbers of top journalists at big media houses like
 
 The leaked data has also revealed that over 11 phone numbers belonging to the Supreme Court staffer and her close relatives who accused former Chief Justice of India **Ranjan Gogoi** of sexual harassment in April 2019 were selected as targets for surveillance. [Read more: [Days After Accusing CJI Gogoi of Sexual Harassment, Staffer Put on List of Potential Snoop Targets](https://thewire.in/rights/ranjan-gogoi-sexual-harassment-pegasus-spyware)] **~ [The WIRE](https://thewire.in/government/pegasus-project-rahul-gandhi-prashant-kishor-ashok-lavasa-ashwini-vaishnaw-prahlad-patel)**
 
-
-
 **List of Indians, including journalists, lawyers and activists whose phones were allegedly potential targets of surveillance:**
 
 * **Shishir Gupta**, Hindustan Times
@@ -101,19 +99,19 @@ The leaked data has also revealed that over 11 phone numbers belonging to the Su
 * **Rahul Singh**, Hindustan Times
 * **Aurangzeb Naqshbandi**, Hindustan Times
 * **Saikat Dutta**, former Hindustan Times
-* **Vijaita Singh**, The Hindu
+* **Vijaita Singh**, who covers the home ministry at *The Hindu*.
 * **Muzamil Jaleel**, The Indian Express
-* **Ritika Chopra**, The Indian Express
+* **Ritika Chopra**, The Indian Express (who covers education and the Election Commission) and Muzammil Jaleel (who writes on Kashmir)
 * **Sushant Singh**, former The Indian Express
 * **Sandeep Unnithan**, India Today
 * **Siddharth Varadarajan**, co-founder of The Wire
-* **Swati Chaturvedi**, The Wire
+* **Swati Chaturvedi**, The Wire \[A freelance journalist, Chaturvedi often contributes to The Wire and is also the author of the book I Am A Troll, which exposed the workings of the ruling party’s digital arm.]
 * **Devirupa Mitra**, The Wire
-* **Rohini Singh**, The Wire
+* **Rohini Singh**, The Wire \[A contributor to The Wire, Singh’s number appeared on the list after she reported on the business dealings of Jay Shah, Home Minister Amit Shah’s son, and Nikhil Merchant, a businessman who is close to the Prime Minister.]
 * **M.K. Venu**, The Wire
 * **J Gopikrishnan**, The Pioneer
 * **Paranjoy Guha Thakurta**, journalist and adviser, NewsClick
-* **Manoranjana Gupta**, editor-in-chief, Frontier TV
+* **Manoranjana Gupta**, editor-in-chief, Frontier TV \[The Northeast-based editor-in-chief of Frontier TV, Gupta also found a spot on the list.]
 * **Shabir Hussein Buchh**, independent journalist
 * **Iftikar Gilani**, journalist covering J&K
 * **Smita Sharma**, independent journalist and news anchor
@@ -126,15 +124,11 @@ The leaked data has also revealed that over 11 phone numbers belonging to the Su
 * **Umar Khalid**, JNU scholar, currently in jail under UAPA
 * **Thirumurugan Gandhi**, activist arrested under UAPA
 * **Rona Wilson**, activist arrested under UAPA
-* **Rupali Jadhav**, arrested under UAPA
+* **Rupali Jadhav**, arrested under UAPA \[An anti-caste activist from Pune, Jadhav has been associated with Kabir Kala Manch, an anti-caste group for over a decade.]
 * **Degree Prasad Chouhan**, activist
 * **Laxman Pant**, activist
 
 **[** *This list has been updated and some names removed as they had not consented to their names being made public but it was erroneously published by a foreign publication which is part of the project.* **] ~ [The PRINT](https://draft.blogger.com/blog/post/edit/3389969535589385158/2888603709029730628#)**
-
-
-
-
 
 **~**
 
