@@ -79,14 +79,14 @@ The leaked data includes the numbers of top journalists at big media houses like
 * **Prashant Kishor**, Election strategist
 * **Ashok Lavasa**, Former Election Commissioner who was the only election commissioner to fault Modi for violations of the model code of conduct in the lead up to the 2019 elections. [Read more: [Ashok Lavasa Placed on Snoop List as EC After Flagging Modi’s 2019 Poll Code Violations](https://thewire.in/government/pegasus-project-ashok-lavasa-narendra-modi-amit-shah-model-code-of-conduct "Ashok Lavasa Placed on Snoop List as EC After Flagging Modi's 2019 Poll Code Violations")]
 * **Abhishek Banerjee**, Trinamool Congress MP and national general secretary of the party
-* **Gagandeep Kang**, Scientist and **Virologist** who has been a key part of India’s battle against COVID-19, and selected for potential surveillance in 2018, when she was helping with the fight against the Nipah virus. 
+* **Gagandeep Kang**, Scientist and **Virologist** who has been a key part of India’s battle against COVID-19, and selected for potential surveillance in 2018, when she was helping with the fight against the Nipah virus. [Scientists criticize ‘rushed’ approval of Indian COVID-19 vaccine without efficacy data](https://www.sciencemag.org/news/2021/01/scientists-criticize-rushed-approval-indian-covid-19-vaccine-without-efficacy-data)
 * **Hari Menon**, India head of the Bill and Melinda Gates Foundation, and at least one other foundation employee, who was selected in mid-2019. A health-sector non-profit and an official of the US Centre for Disease Control posted to India at the time were also potential targets of surveillance, reflecting a keen interest in people working in the health sector. Kang is the first Indian woman to be elected as a Fellow of the Royal Society.
 * **Jagdeep Chokhar**, Head of Association of Democratic Reforms **(ADR)**
 * **Alankar Sawai**, Close aide of Congress leader Rahul Gandhi
 * **Sachin Rao**, Member of Congress Working Committee
 * **Pradeep Awasthi**, Personal secretary to former Rajasthan CM Vasundhara Raje (when she was the CM)
 * **Sanjay Kachru**, Union minister Smriti Irani’s OSD during 2014-15
-* **Pravin Togadia**, Former international working president of VHP
+* **Pravin Togadia**, Former international working president of VHP [[The former VHP leader said he has prepared a draft bill for the construction of a **Ram temple in Ayodhya** as the government is busy with other matters.](https://scroll.in/latest/884189/modi-has-time-to-visit-mosques-in-foreign-countries-but-not-ayodhya-says-pravin-togadia)]
 
 The leaked data has also revealed that over 11 phone numbers belonging to the Supreme Court staffer and her close relatives who accused former Chief Justice of India **Ranjan Gogoi** of sexual harassment in April 2019 were selected as targets for surveillance. [Read more: [Days After Accusing CJI Gogoi of Sexual Harassment, Staffer Put on List of Potential Snoop Targets](https://thewire.in/rights/ranjan-gogoi-sexual-harassment-pegasus-spyware)] **~ [The WIRE](https://thewire.in/government/pegasus-project-rahul-gandhi-prashant-kishor-ashok-lavasa-ashwini-vaishnaw-prahlad-patel)**
 
@@ -128,12 +128,25 @@ The leaked data has also revealed that over 11 phone numbers belonging to the Su
 
 **[** *This list has been updated and some names removed as they had not consented to their names being made public but it was erroneously published by a foreign publication which is part of the project.* **] ~ [The PRINT](https://draft.blogger.com/blog/post/edit/3389969535589385158/2888603709029730628#)**
 
-\`\`சர்ச்சை ஏற்படுத்த வேண்டும் எனத் திட்டமிட்டே மழைக்கால கூட்டத்தொடர் ஆரம்பிக்கும்போது இந்தத் தகவல் வெளியாகியிருப்பதாகவும், இது அடிப்படை ஆதாரமற்ற உண்மைக்குப் புறம்பான செய்தி என்றும், இந்தியர்களின் செல்போன்களை ஒட்டுக்கேட்கவோ, ஹேக் செய்யவோ நமது அரசியலமைப்புச் சட்டப்படி பல்வேறு துறைகளின் அனுமதி பெற வேண்டும் என்பதால், அது எளிதாக நடந்திருக்க வாய்ப்பில்லை" எனவும் மத்திய தகவல் தொழில்நுட்பத்துறை அமைச்சர் அஸ்வினி வைஷ்ணவ் நாடாளுமன்றத்தில் விளக்கம் அளித்திருக்கிறார். மேலும் \`\`இந்தியா பெகாசஸ் ஸ்பைவேரை பயன்படுத்தவேயில்லை” என மத்திய உள்துறை அமைச்சர் கூறியிருக்கிறார். ~ [](https://www.nakkheeran.in/24-by-7-news/india/pegasus-spying-300-peoples-cell-phones-amit-shah-behind-conspiracy-congress)**[Vikatan](https://www.vikatan.com/government-and-politics/politics/whats-the-truth-and-what-bjp-government-going-to-deal-on-pegasus-issue)** 
+**Update:** 115 Names Revealed By The Wire On Snoop List So Far **~ [The WIRE](https://thewire.in/rights/project-pegasus-list-of-names-uncovered-spyware-surveillance)**
 
-டெல்லியில் செய்தியாளர்களைச் சந்தித்த காங்கிரஸ் செய்தி தொடர்பாளர் சுர்ஜேவாலா, இந்த சதிக்குப் பின்னால் இருப்பது உள்துறை அமைச்சர் அமித்ஷாதான் என்றும், அவரை உடனடியாக பதவி நீக்கம் செய்ய வேண்டும் என்றும் வலியுறுத்தியுள்ளார். இந்த விஷயத்தில் பிரதமர் மோடியின் பங்கு குறித்தும் விசாரணை மேற்கொள்ள வேண்டும் என வலியுறுத்தி கூறியுள்ள அவர், கடந்த 2019ஆம் ஆண்டு மாநிலங்களவையில், 127 பேரின் வாட்ஸ்அப் எண்கள் பெகாசஸ் உளவு செயலியின் மூலம் பார்க்கப்பட்டிருக்கலாம் என்று அப்போதைய தகவல் தொழில்நுட்பத்துறை அமைச்சராக இருந்த ரவிசங்கர் பிரசாத் கூறியிருந்தார். அது தொடர்பாக என்னென்ன நடவடிக்கைகள் எடுக்கப்பட்டது எனவும் காங்கிரஸ் தரப்பில் கேள்வி எழுப்பப்பட்டுள்ளது ~ **[Nakkheeran](https://www.nakkheeran.in/24-by-7-news/india/pegasus-spying-300-peoples-cell-phones-amit-shah-behind-conspiracy-congress)**
+>
 
-**<hr>**
+சர்ச்சை ஏற்படுத்த வேண்டும் எனத் திட்டமிட்டே மழைக்கால கூட்டத்தொடர் ஆரம்பிக்கும்போது இந்தத் தகவல் வெளியாகியிருப்பதாகவும், இது அடிப்படை ஆதாரமற்ற உண்மைக்குப் புறம்பான செய்தி என்றும், இந்தியர்களின் செல்போன்களை ஒட்டுக்கேட்கவோ, ஹேக் செய்யவோ நமது அரசியலமைப்புச் சட்டப்படி பல்வேறு துறைகளின் அனுமதி பெற வேண்டும் என்பதால், அது எளிதாக நடந்திருக்க வாய்ப்பில்லை" எனவும் மத்திய தகவல் தொழில்நுட்பத்துறை அமைச்சர் அஸ்வினி வைஷ்ணவ் நாடாளுமன்றத்தில் விளக்கம் அளித்திருக்கிறார். 
 
-This is a developing article please follow it for updates...
+> \`\`***இந்தியா பெகாசஸ் ஸ்பைவேரை பயன்படுத்தவேயில்லை***” என மத்திய உள்துறை அமைச்சர் கூறியிருக்கிறார். ~ [](https://www.nakkheeran.in/24-by-7-news/india/pegasus-spying-300-peoples-cell-phones-amit-shah-behind-conspiracy-congress)**[Vikatan](https://www.vikatan.com/government-and-politics/politics/whats-the-truth-and-what-bjp-government-going-to-deal-on-pegasus-issue)** 
+
+டெல்லியில் செய்தியாளர்களைச் சந்தித்த காங்கிரஸ் செய்தி தொடர்பாளர் சுர்ஜேவாலா, இந்த சதிக்குப் பின்னால் இருப்பது உள்துறை அமைச்சர் அமித்ஷாதான் என்றும், அவரை உடனடியாக பதவி நீக்கம் செய்ய வேண்டும் என்றும் வலியுறுத்தியுள்ளார். இந்த விஷயத்தில் பிரதமர் மோடியின் பங்கு குறித்தும் விசாரணை மேற்கொள்ள வேண்டும் என வலியுறுத்தி கூறியுள்ள அவர், கடந்த 2019ஆம் ஆண்டு மாநிலங்களவையில், **127 பேரின் வாட்ஸ்அப் எண்கள் பெகாசஸ் உளவு செயலியின் மூலம் பார்க்கப்பட்டிருக்கலாம்** என்று அப்போதைய தகவல் தொழில்நுட்பத்துறை அமைச்சராக இருந்த ரவிசங்கர் பிரசாத் கூறியிருந்தார். அது தொடர்பாக என்னென்ன நடவடிக்கைகள் எடுக்கப்பட்டது எனவும் காங்கிரஸ் தரப்பில் கேள்வி எழுப்பப்பட்டுள்ளது ~ **[Nakkheeran](https://www.nakkheeran.in/24-by-7-news/india/pegasus-spying-300-peoples-cell-phones-amit-shah-behind-conspiracy-congress)**
+
+> **July 2021, Paris**: The cellphones of French President [Emmanuel Macron](https://timesofindia.indiatimes.com/topic/emmanuel-macron) and 15 members of the French government may have been among potential targets in 2019 of surveillance by spyware made by the Israel-based [NSO Group](https://timesofindia.indiatimes.com/topic/NSO-Group), according to a newspaper report on Tuesday.\
+> The Paris prosecutor's office announced it is investigating the suspected widespread use of the [Pegasus spyware](https://timesofindia.indiatimes.com/topic/Pegasus-spyware) to target journalists, human rights activists and politicians in multiple countries. ~ **[TOI](https://timesofindia.indiatimes.com/world/europe/france-launches-probe-into-pegasus-spying-row/articleshow/84599223.cms)**
+
+![Pegasus spyware news: France launches probe into Pegasus spying row | World  News - Times of India](https://static.toiimg.com/photo/imgsize-509260,msid-84599492/84599492.jpg)
+
+
+
+> **Pegasus Project: 115 Names Revealed By The Wire On Snoop List So Far ~ [The WIRE](https://thewire.in/rights/project-pegasus-list-of-names-uncovered-spyware-surveillance)**
+>
+> *This is a developing article please follow it for updates...*
 
 <!--EndFragment-->
