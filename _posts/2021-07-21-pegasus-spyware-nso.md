@@ -139,7 +139,7 @@ The leaked data has also revealed that over 11 phone numbers belonging to the Su
 > **July 2021, Paris**: The cellphones of French President [Emmanuel Macron](https://timesofindia.indiatimes.com/topic/emmanuel-macron) and 15 members of the French government may have been among potential targets in 2019 of surveillance by spyware made by the Israel-based [NSO Group](https://timesofindia.indiatimes.com/topic/NSO-Group), according to a newspaper report on Tuesday.\
 > The Paris prosecutor's office announced it is investigating the suspected widespread use of the [Pegasus spyware](https://timesofindia.indiatimes.com/topic/Pegasus-spyware) to target journalists, human rights activists and politicians in multiple countries. ~ **[TOI](https://timesofindia.indiatimes.com/world/europe/france-launches-probe-into-pegasus-spying-row/articleshow/84599223.cms)**
 
-![Pegasus spyware news: France launches probe into Pegasus spying row | World  News - Times of India](https://static.toiimg.com/photo/imgsize-509260,msid-84599492/84599492.jpg)
+{% figure {"image": "https://static.toiimg.com/photo/imgsize-509260,msid-84599492/84599492.jpg", "alt": "Pegasus spyware news: France launches probe into Pegasus spying row", "caption": "France launches probe into Pegasus spying row"} %}
 
 > **Pegasus Project: 115 Names Revealed By The Wire On Snoop List So Far ~ [The WIRE](https://thewire.in/rights/project-pegasus-list-of-names-uncovered-spyware-surveillance)**
 >
