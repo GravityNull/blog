@@ -130,8 +130,6 @@ The leaked data has also revealed that over 11 phone numbers belonging to the Su
 
 **Update:** 115 Names Revealed By The Wire On Snoop List So Far **~ [The WIRE](https://thewire.in/rights/project-pegasus-list-of-names-uncovered-spyware-surveillance)**
 
->
-
 சர்ச்சை ஏற்படுத்த வேண்டும் எனத் திட்டமிட்டே மழைக்கால கூட்டத்தொடர் ஆரம்பிக்கும்போது இந்தத் தகவல் வெளியாகியிருப்பதாகவும், இது அடிப்படை ஆதாரமற்ற உண்மைக்குப் புறம்பான செய்தி என்றும், இந்தியர்களின் செல்போன்களை ஒட்டுக்கேட்கவோ, ஹேக் செய்யவோ நமது அரசியலமைப்புச் சட்டப்படி பல்வேறு துறைகளின் அனுமதி பெற வேண்டும் என்பதால், அது எளிதாக நடந்திருக்க வாய்ப்பில்லை" எனவும் மத்திய தகவல் தொழில்நுட்பத்துறை அமைச்சர் அஸ்வினி வைஷ்ணவ் நாடாளுமன்றத்தில் விளக்கம் அளித்திருக்கிறார். 
 
 > \`\`***இந்தியா பெகாசஸ் ஸ்பைவேரை பயன்படுத்தவேயில்லை***” என மத்திய உள்துறை அமைச்சர் கூறியிருக்கிறார். ~ [](https://www.nakkheeran.in/24-by-7-news/india/pegasus-spying-300-peoples-cell-phones-amit-shah-behind-conspiracy-congress)**[Vikatan](https://www.vikatan.com/government-and-politics/politics/whats-the-truth-and-what-bjp-government-going-to-deal-on-pegasus-issue)** 
@@ -142,8 +140,6 @@ The leaked data has also revealed that over 11 phone numbers belonging to the Su
 > The Paris prosecutor's office announced it is investigating the suspected widespread use of the [Pegasus spyware](https://timesofindia.indiatimes.com/topic/Pegasus-spyware) to target journalists, human rights activists and politicians in multiple countries. ~ **[TOI](https://timesofindia.indiatimes.com/world/europe/france-launches-probe-into-pegasus-spying-row/articleshow/84599223.cms)**
 
 ![Pegasus spyware news: France launches probe into Pegasus spying row | World  News - Times of India](https://static.toiimg.com/photo/imgsize-509260,msid-84599492/84599492.jpg)
-
-
 
 > **Pegasus Project: 115 Names Revealed By The Wire On Snoop List So Far ~ [The WIRE](https://thewire.in/rights/project-pegasus-list-of-names-uncovered-spyware-surveillance)**
 >
