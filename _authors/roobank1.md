@@ -1,6 +1,6 @@
 ---
 title: Roobank1
-position: 0
+position: Dev. & Cartoonist
 layout: author
 photo: https://cdn.glitch.com/e68e9bfc-04e8-4acb-91fc-4381e1c60480%2F9eiC-ks7_400x400.jpg
 name: roobank1
