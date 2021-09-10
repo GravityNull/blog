@@ -58,33 +58,6 @@
     flex: 1 0 calc(100%/#{$maxItemsPerRow} - #{$itemMargin * 2});
   }
 
-<!--  &:hover {
-    z-index: 2;
-    transform: scale(1.1);
-
-    img {
-      -webkit-filter: grayscale(100%);
-      filter: grayscale(100%);
-      transform: scale(1.05);
-    }
-
-    .box-body {
-      time,
-      p {
-        color: $accentDark;
-      }
-
-      .cover {
-        .new-post-tag {
-          background-color: #000;
-        }
-
-        .read-icon {
-          opacity: 1;
-        }
-      }
-    }
-  } -->
 
   a {
     text-decoration: none;
