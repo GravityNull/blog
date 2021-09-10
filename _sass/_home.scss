@@ -58,9 +58,9 @@
     flex: 1 0 calc(100%/#{$maxItemsPerRow} - #{$itemMargin * 2});
   }
 
-//  &:hover {
-//    z-index: 2;
-//    transform: scale(1.1);
+<!--  &:hover {
+    z-index: 2;
+    transform: scale(1.1);
 
     img {
       -webkit-filter: grayscale(100%);
@@ -84,7 +84,7 @@
         }
       }
     }
-  }
+  } -->
 
   a {
     text-decoration: none;
