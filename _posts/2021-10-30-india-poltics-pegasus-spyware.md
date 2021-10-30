@@ -142,5 +142,31 @@ The leaked data has also revealed that over 11 phone numbers belonging to the Su
 [![](https://lh3.googleusercontent.com/-rXv2mwrrZ10/YPlK_BoMyxI/AAAAAAAAUv4/Kj6mIJL_3vsDZRUvCb8UjBeM_QEF5nDfACLcBGAsYHQ/image.png)](https://lh3.googleusercontent.com/-rXv2mwrrZ10/YPlK_BoMyxI/AAAAAAAAUv4/Kj6mIJL_3vsDZRUvCb8UjBeM_QEF5nDfACLcBGAsYHQ/image.png)
 
 > **Pegasus Project: 115 Names Revealed By The Wire On Snoop List So Far ~ [The WIRE](https://thewire.in/rights/project-pegasus-list-of-names-uncovered-spyware-surveillance)**
->
+
+
+
+**SC orders independent probe into Pegasus, says Govt can’t get free pass every time ‘national security’ is raised**
+
+The ruling came on a batch of 12 petitions which sought an independent probe into the allegations which surfaced in the media about the unauthorised surveillance. ~ **[Indian Express](https://indianexpress.com/article/india/supreme-court-pegasus-spyware-surveillance-verdict-7592853/)**
+
+**பெகாசஸ் விவகாரம்: அதிரடி உத்தரவை பிறப்பித்த உச்ச நீதிமன்றம்!**
+
+பெகாசஸ் விவகாரம் குறித்து விசாரிக்க உச்ச நீதிமன்றம் அமைத்துள்ள குழுவிற்கு, ஓய்வுபெற்ற உச்ச நீதிமன்ற நீதிபதி ரவீந்திரன் தலைவராக நியமிக்கப்பட்டுள்ளார். மேலும், அந்தக் குழுவில் ஓய்வுபெற்ற ஐபிஎஸ் அதிகாரியும், ரா உளவுப்பிரிவின் முன்னாள் தலைவருமான அலோக் ஜோஷி, தகவல் தொழில்நுட்ப வல்லுனரான சுந்தீப் ஓபராய், தேசிய தடய அறிவியல் பல்கலைக்கழக டீன் நவீன் குமார் சவுத்ரி, பேராசிரியர் பிரபாகரன், இந்திய தொழில்நுட்ப நிறுவன பேராசிரியர் அஷ்வின் அனில் குமாஸ்தே ஆகியோர் இடம்பெற்றுள்ளனர். ~ **[Nakkheeran](https://www.nakkheeran.in/24-by-7-news/india/sc-forms-probe-panel-under-retired-sc-judge-pegasus-issue)**
+
+**SC Order on Pegasus Has the Potential to Let India's Democracy Breathe Again**
+
+The Pegasus surveillance seemed like the final assault on the democratic institutions like the media, civil society, judiciary, opposition and Election Commission. ~[ **The WIRE**](https://thewire.in/rights/supreme-court-pegasus-order-india-democracy)
+
+![From top left, clockwise: Justice Ravendran, Alok Joshi, Sundeep Oberoi, Dr Chaudhary, Dr Gumaste and Dr Prabaharan P (Illustrations: Suvajit Dey, Sourse: Indian Express)](https://images.indianexpress.com/2021/10/Committee-illustration.jpg "From top left, clockwise: Justice Ravendran, Alok Joshi, Sundeep Oberoi, Dr Chaudhary, Dr Gumaste and Dr Prabaharan P (Illustrations: Suvajit Dey, Sourse: Indian Express)")
+
+From top left, clockwise: Justice Ravendran, Alok Joshi, Sundeep Oberoi, Dr Chaudhary, Dr Gumaste and Dr Prabaharan P (Illustrations: Suvajit Dey, Sourse: Indian Express) 
+
+A three-member committee has been appointed by the Supreme Court to look into allegations of unauthorised surveillance using Pegasus, a spyware developed by Israeli firm NSO Group. ~ **[Indian Express](https://indianexpress.com/article/explained/meet-members-of-the-sc-appointed-committee-to-probe-pegasus-7593255/)**
+
+**Pegasus sold only to governments: Israeli envoy to India**
+
+Accusing Iran of ‘destabilising’ the West Asian region, the Israeli Ambassador to India said the newly announced India-Israel-UAE-U.S. quadrilateral was an outcome of the “Abraham Accords” that saw Israel and the UAE establish diplomatic ties, which were the result of “common concerns” about Iran’s role in the region. ~ **[](https://indianexpress.com/article/explained/meet-members-of-the-sc-appointed-committee-to-probe-pegasus-7593255/)[The Hindu](https://www.thehindu.com/news/national/pegasus-sold-only-to-governments-israeli-envoy-to-india/article37218078.ece)**
+
+
+
 > *This is a developing article please follow it for updates...*
