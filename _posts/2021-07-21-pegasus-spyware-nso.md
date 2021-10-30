@@ -16,13 +16,13 @@ tags:
 author: roobank1
 paginate: true
 ---
+<center>
+
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=pegasus-spyware-nso1212%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
 
 # **This Article has been blocked and restricted to view.**
 
-> ## [**Click here** to open our Instagram page & click the 1st story to know more...](https://www.instagram.com/stories/highlights/17921239717836673/)
-
-
+###### [**Click here** to open our Instagram page & click the 1st story to know more](https://www.instagram.com/gravitynull)
 
 <!--StartFragment-->
 
