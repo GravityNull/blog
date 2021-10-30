@@ -7,8 +7,8 @@ subtitle: ஜனநாயகத்தின் தூண்களான பத�
   துறை, மற்றும் பல தனிநபர்களின் மேல் தொடுக்கப்பட்ட ஒரு இணைய தாக்குதல்.
 description: ஜனநாயகத்தின் தூண்களான பத்திரிக்கை, நீதி துறை, எதிர் கட்சி, மருத்துவ
   துறை, மற்றும் பல தனிநபர்களின் மேல் தொடுக்கப்பட்ட ஒரு இணைய தாக்குதல்.
-image: https://lh3.googleusercontent.com/pw/AM-JKLWNcDb_r-ZGen_LxhrHklNDBF_aHVPQhIwB-0_7-fw8XmK1vdVsAip_Jbv6P6VN_iK3k-F10igUOACiqA48Ct5LoeT5c2X8eUFhHlclfkJc4oR3GcR_yUNdEmx7KTGa8-QscBMI3zKFX_VD_e-FT6dG2A=w1293-h635-no?authuser=0
-optimized_image: https://lh3.googleusercontent.com/pw/AM-JKLWNcDb_r-ZGen_LxhrHklNDBF_aHVPQhIwB-0_7-fw8XmK1vdVsAip_Jbv6P6VN_iK3k-F10igUOACiqA48Ct5LoeT5c2X8eUFhHlclfkJc4oR3GcR_yUNdEmx7KTGa8-QscBMI3zKFX_VD_e-FT6dG2A=w1293-h635-no?authuser=0
+image: https://i.ibb.co/8XXb3GY/Pics-Art-10-30-03-56-22.png
+optimized_image: https://i.ibb.co/8XXb3GY/Pics-Art-10-30-03-56-22.png
 category: blog
 tags:
   - Pegasus
