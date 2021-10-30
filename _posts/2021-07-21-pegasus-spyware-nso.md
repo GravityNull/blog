@@ -25,6 +25,16 @@ paginate: true
 This Article has been blocked and restricted to view.
 </h1>
 
+<a href="https://gravitynull.in/india-poltics-pegasus-spyware/">
+
+<b>India, Politics & Pegasus Spyware</b> 
+
+ஜனநாயகத்தின் தூண்களான பத்திரிக்கை, நீதி துறை, எதிர் கட்சி, மருத்துவ துறை, மற்றும் பல தனிநபர்களின் மேல் தொடுக்கப்பட்ட ஒரு இணைய தாக்குதல்.
+
+</a>
+
+<hr>
+
 <a href="https://www.instagram.com/gravitynull">
 Click here to open our Instagram page & click the 1st story to know more
 </a>
