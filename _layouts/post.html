@@ -46,13 +46,14 @@
                         {% for post in shuffled_array limit:5 %}
                             <li>
                                 <a href="{{ post.url | prepend: site.baseurl }}">
-                                    {% if post.optimized_image %}
+                                 <--   {% if post.optimized_image %}
                                         <img src="{{ post.optimized_image }}">
                                     {% elsif post.image %}
                                         <img src="{{ post.image }}">
                                     {% else %}
                                         <img src="/assets/img/off.jpg">
                                     {% endif %}
+                                 -->
                                     <h4>{{ post.title }}</h4>
                                 </a>
                             </li>
