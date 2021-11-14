@@ -54,7 +54,9 @@
                                         <img src="/assets/img/off.jpg">
                                     {% endif %}
                                  -->
-                                    <h4>{{ post.title }}</h4>
+                                    <img src="{{ post.optimized_image }}">
+                                    <h4>{{ post.title }} </h4>
+                                    <p>{{ post.subtitle }}</p>
                                 </a>
                             </li>
                         {% endfor %}
