@@ -38,7 +38,7 @@
 
             {% if site.two_columns_layout %}
             
-                 <!-- <aside class="see-also">
+                 <aside class="see-also">
                     <h2>{{ site.translations.text.see_also | default: "See also" }}</h2>
                     <ul>
                         {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
@@ -59,7 +59,7 @@
                         {% endfor %}
                     </ul>
                 </aside>
-            {% endif %} -->
+            {% endif %} 
         
         
         {% include share.html %}
