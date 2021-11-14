@@ -36,7 +36,7 @@
             </article>
                 
 
-            {% if site.two_columns_layout %}
+           <!-- {% if site.two_columns_layout %}
             
                  <aside class="see-also">
                     <h2>{{ site.translations.text.see_also | default: "See also" }}</h2>
@@ -46,14 +46,14 @@
                         {% for post in shuffled_array limit:5 %}
                             <li>
                                 <a href="{{ post.url | prepend: site.baseurl }}">
-                                 <!--   {% if post.optimized_image %}
+                                    {% if post.optimized_image %}
                                         <img src="{{ post.optimized_image }}">
                                     {% elsif post.image %}
                                         <img src="{{ post.image }}">
                                     {% else %}
                                         <img src="/assets/img/off.jpg">
                                     {% endif %}
-                                 -->
+                                 
                                     
                                     <h4>{{ post.title }} </h4>
                                     <p>{{ post.subtitle }}</p>
@@ -62,13 +62,44 @@
                         {% endfor %}
                     </ul>
                 </aside>
-            {% endif %} 
+            {% endif %} -->
         
         
         {% include share.html %}
         </section>
         
        
+
+
+
+        <aside class="see-also">
+                    <h2>{{ site.translations.text.see_also | default: "See also" }}</h2>
+                    <ul>
+                        {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
+                        {% assign shuffled_array = next_posts | shuffle %}
+                        {% for post in shuffled_array limit:5 %}
+                            <li>
+                                <a href="{{ post.url | prepend: site.baseurl }}">
+                                    {% if post.optimized_image %}
+                                        <img src="{{ post.optimized_image }}">
+                                    {% elsif post.image %}
+                                        <img src="{{ post.image }}">
+                                    {% else %}
+                                        <img src="/assets/img/off.jpg">
+                                    {% endif %}
+                                 
+                                    
+                                    <h4>{{ post.title }} </h4>
+                                    <p>{{ post.subtitle }}</p>
+                                </a>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </aside>
+
+
+
+
 
         <!-- Add time bar only for pages without pagination -->
         {% if paginator.activated == nil and site.show_time_bar == true %}
