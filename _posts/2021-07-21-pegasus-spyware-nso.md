@@ -1,5 +1,5 @@
 ---
-date: 2021-07-22 00:35:40
+date: 2000-07-22 00:35:40
 title: India, Politics & Pegasus Spyware
 perma: pegasus-spyware-nso
 subtitle: ஜனநாயகத்தின் தூண்களான பத்திரிக்கை, நீதி துறை, எதிர் கட்சி, மருத்துவ
@@ -27,8 +27,8 @@ This Article has been blocked and restricted to view.
 
 <a href="https://gravitynull.in/india-poltics-pegasus-spyware/">
 
-<b>India, Politics & Pegasus Spyware</b> 
-
+<b><button>India, Politics & Pegasus Spyware</button</b> 
+<br>
 ஜனநாயகத்தின் தூண்களான பத்திரிக்கை, நீதி துறை, எதிர் கட்சி, மருத்துவ துறை, மற்றும் பல தனிநபர்களின் மேல் தொடுக்கப்பட்ட ஒரு இணைய தாக்குதல்.
 
 </a>
