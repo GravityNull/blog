@@ -509,6 +509,7 @@
     color: #fff;
     padding-right: rem(20px);
     z-index: 100000;
+    width: 99%
 
     @include media(">=sm") {
       font-size: rem(20px);
