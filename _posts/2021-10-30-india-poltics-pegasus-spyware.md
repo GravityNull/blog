@@ -171,15 +171,19 @@ At least two cyber-security researchers, who have deposed before the Supreme Cou
 
 These cyber-security researchers were engaged by some of the petitioners to depose before the top court panel and provide details of the forensic analysis done by them. ~ **[The Hindu](https://indianexpress.com/article/india/proof-pegasus-use-on-phones-cyber-experts-sc-panel-7748973/)**
 
+![Narendra Modi and Benjamin Netanyahu on the beach at Haifa in July 2017. Photo: Kobi Gideon/Israeli government office handout via Reuters](https://thewire.in/wp-content/uploads/2017/07/modi-and-netanyahu.jpg "Narendra Modi and Benjamin Netanyahu on the beach at Haifa in July 2017. Photo: Kobi Gideon/Israeli government office handout via Reuters")
 
+<!--StartFragment-->
+
+*Narendra Modi and Benjamin Netanyahu on the beach at Haifa in July 2017. Photo: Kobi Gideon/Israeli government office handout via Reuters*
+
+<!--EndFragment-->
 
 **Indian Leadership Showed 'Specific Interest' in Pegasus, Paid Millions for 'Multi-Year Contract'** 
 
 Israeli reporter for the New York Times says India's contract allows its intelligence agencies to target up to 50 phones simultaneously with spyware attack. 
 
 The secret deal between India and Israel for the sale of Pegasus in 2017 was struck at the ‘highest levels’ of each country’s political and intelligence leadership and flowed from the Modi government’s ‘specific interest’ in and ‘specific emphasis’ on acquiring the controversial spyware, Israeli investigative journalist Ronen Bergman told The Wire. ~ **[The WIRE](https://thewire.in/diplomacy/indian-leadership-showed-specific-interest-in-pegasus-paid-millions-for-multi-year-contract)**
-
-
 
 **India bought Israeli Pegasus spyware as part of weapons deal: NYT** 
 
