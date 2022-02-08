@@ -143,8 +143,6 @@ The leaked data has also revealed that over 11 phone numbers belonging to the Su
 
 > **Pegasus Project: 115 Names Revealed By The Wire On Snoop List So Far ~ [The WIRE](https://thewire.in/rights/project-pegasus-list-of-names-uncovered-spyware-surveillance)**
 
-
-
 **SC orders independent probe into Pegasus, says Govt can’t get free pass every time ‘national security’ is raised**
 
 The ruling came on a batch of 12 petitions which sought an independent probe into the allegations which surfaced in the media about the unauthorised surveillance. ~ **[Indian Express](https://indianexpress.com/article/india/supreme-court-pegasus-spyware-surveillance-verdict-7592853/)**
@@ -165,8 +163,34 @@ A three-member committee has been appointed by the Supreme Court to look into al
 
 **Pegasus sold only to governments: Israeli envoy to India**
 
-Accusing Iran of ‘destabilising’ the West Asian region, the Israeli Ambassador to India said the newly announced India-Israel-UAE-U.S. quadrilateral was an outcome of the “Abraham Accords” that saw Israel and the UAE establish diplomatic ties, which were the result of “common concerns” about Iran’s role in the region. ~ **[](https://indianexpress.com/article/explained/meet-members-of-the-sc-appointed-committee-to-probe-pegasus-7593255/)[The Hindu](https://www.thehindu.com/news/national/pegasus-sold-only-to-governments-israeli-envoy-to-india/article37218078.ece)**
+Accusing Iran of ‘destabilising’ the West Asian region, the Israeli Ambassador to India said the newly announced India-Israel-UAE-U.S. quadrilateral was an outcome of the “Abraham Accords” that saw Israel and the UAE establish diplomatic ties, which were the result of “common concerns” about Iran’s role in the region. ~ [](https://indianexpress.com/article/explained/meet-members-of-the-sc-appointed-committee-to-probe-pegasus-7593255/)**[The Hindu](https://www.thehindu.com/news/national/pegasus-sold-only-to-governments-israeli-envoy-to-india/article37218078.ece)**
 
+**Proof of Pegasus use on phones, Cyber experts tell SC panel** 
 
+At least two cyber-security researchers, who have deposed before the Supreme Court-appointed committee that’s probing the use of Pegasus for allegedly spying on citizens, have told the panel that they found concrete evidence of use of the malware on the devices of the petitioners.
+
+These cyber-security researchers were engaged by some of the petitioners to depose before the top court panel and provide details of the forensic analysis done by them. ~ **[The Hindu](https://indianexpress.com/article/india/proof-pegasus-use-on-phones-cyber-experts-sc-panel-7748973/)**
+
+![Narendra Modi and Benjamin Netanyahu on the beach at Haifa in July 2017. Photo: Kobi Gideon/Israeli government office handout via Reuters](https://thewire.in/wp-content/uploads/2017/07/modi-and-netanyahu.jpg "Narendra Modi and Benjamin Netanyahu on the beach at Haifa in July 2017. Photo: Kobi Gideon/Israeli government office handout via Reuters")
+
+<!--StartFragment-->
+
+*Narendra Modi and Benjamin Netanyahu on the beach at Haifa in July 2017. Photo: Kobi Gideon/Israeli government office handout via Reuters*
+
+<!--EndFragment-->
+
+**Indian Leadership Showed 'Specific Interest' in Pegasus, Paid Millions for 'Multi-Year Contract'** 
+
+Israeli reporter for the New York Times says India's contract allows its intelligence agencies to target up to 50 phones simultaneously with spyware attack. 
+
+The secret deal between India and Israel for the sale of Pegasus in 2017 was struck at the ‘highest levels’ of each country’s political and intelligence leadership and flowed from the Modi government’s ‘specific interest’ in and ‘specific emphasis’ on acquiring the controversial spyware, Israeli investigative journalist Ronen Bergman told The Wire. ~ **[The WIRE](https://thewire.in/diplomacy/indian-leadership-showed-specific-interest-in-pegasus-paid-millions-for-multi-year-contract)**
+
+**India bought Israeli Pegasus spyware as part of weapons deal: NYT** 
+
+The Indian government led by Hindu nationalist Prime Minister Narendra Modi acquired spyware from Israel as part of a weapon purchase deal in 2017, according to a **[New York Times report](https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html)**. 
+
+The Indian government denied it bought the Israeli-made spyware, which was allegedly used to infect phones of its opponents, rights activists and journalists in India. The report published on Friday said Pegasus and a missile system were the “centerpieces” of a roughly $2bn deal of sophisticated weapons and intelligence tools back then. **~ [Aljazeera](https://www.aljazeera.com/news/2022/1/29/india-bought-israeli-pegasus-spyware-as-part-of-weapon-deal-nyt)** 
+
+**...**
 
 > *This is a developing article please follow it for updates...*
