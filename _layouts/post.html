@@ -43,11 +43,11 @@
                     <ul>
                         {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
                         {% assign shuffled_array = next_posts | shuffle %}
-                        {% for post in shuffled_array limit:5 %}
+                        {% for post in shuffled_array limit:12 %}
                             <li>
                                 <a href="{{ post.url | prepend: site.baseurl }}">
                                      
-                                    <h4>{{ post.title }} </h4>
+                                    <p><b>{{ post.title }}</b> </p>
                                     
                                     {% if post.optimized_image %}
                                         <img src="{{ post.optimized_image }}">
