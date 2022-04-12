@@ -18,9 +18,9 @@ menu:
   - title: About
     url: /about
   - title: Cartoons
+    url: /cartoons
   - title: Author
     url: /authors/roobank1
-    url: /cartoons
   - title: Contact
     url: /contact
   - title: Live News
