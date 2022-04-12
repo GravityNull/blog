@@ -18,6 +18,8 @@ menu:
   - title: About
     url: /about
   - title: Cartoons
+  - title: Author
+    url: /authors/roobank1
     url: /cartoons
   - title: Contact
     url: /contact
