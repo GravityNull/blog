@@ -7,8 +7,8 @@ subtitle: ஜனநாயகத்தின் தூண்களான பத�
   துறை, மற்றும் பல தனிநபர்களின் மேல் தொடுக்கப்பட்ட ஒரு இணைய தாக்குதல்.
 description: ஜனநாயகத்தின் தூண்களான பத்திரிக்கை, நீதி துறை, எதிர் கட்சி, மருத்துவ
   துறை, மற்றும் பல தனிநபர்களின் மேல் தொடுக்கப்பட்ட ஒரு இணைய தாக்குதல்.
-image: https://i.ibb.co/8XXb3GY/Pics-Art-10-30-03-56-22.png
-optimized_image: https://i.ibb.co/8XXb3GY/Pics-Art-10-30-03-56-22.png
+image: https://lh3.googleusercontent.com/pw/AMWts8BL28RqZ84l7uyVP5q0bN-KcB-x4FlKcgtD_nNgTiz1yfqSvA7f5FguignGlDXEjKwbQQWgJ_85skTiWgef1shPlqjJ8-H_QI8HB54jr89oAShIi0L5vvnCNDZYG6LsqFqsWPVgY-gclwLwXZ0swOGumw=w1818-h893-no?authuser=0
+optimized_image: https://lh3.googleusercontent.com/pw/AMWts8BL28RqZ84l7uyVP5q0bN-KcB-x4FlKcgtD_nNgTiz1yfqSvA7f5FguignGlDXEjKwbQQWgJ_85skTiWgef1shPlqjJ8-H_QI8HB54jr89oAShIi0L5vvnCNDZYG6LsqFqsWPVgY-gclwLwXZ0swOGumw=w1818-h893-no?authuser=0
 category: blog
 tags:
   - Pegasus
@@ -57,9 +57,9 @@ paginate: false
 
 **November 2019**, WhatsApp sued the NSO Group in a federal court in San Francisco on Tuesday, accusing it of using WhatsApp servers in the United States and elsewhere “to send malware to approximately 1,400 mobile phones and devices (‘Target Devices’)… for the purpose of conducting surveillance of specific WhatsApp users (‘Target Users’)”.  **~** **[Indian Express](https://draft.blogger.com/blog/post/edit/3389969535589385158/2888603709029730628#)**
 
-**March 2020**, MEDIA: WATCHING THE WATCHDOG - Pegasus had been used by Saudi Crown Prince Mohammed Bin Salman to hack the personal phone of Amazon founder and Washington Post owner Jeff Bezos. However, over the past half-decade, Pegasus has secretly been used by government agencies to try and snoop on dozens of journalists in countries around the world. **~ [Dawn](https://draft.blogger.com/blog/post/edit/3389969535589385158/2888603709029730628#)**
+**March 2020**, MEDIA: WATCHING THE WATCHDOG - Pegasus had been used by Saudi Crown Prince Mohammed Bin Salman to hack the personal phone of Amazon founder and Washington Post owner Jeff Bezos. However, over the past half-decade, Pegasus has secretly been used by government agencies to try and snoop on dozens of journalists in countries around the world. **~ [Dawn]**
 
-**July 2020**, the Israeli Court Refuses to Revoke Export License of Spyware Maker NSO An Israeli court said that there was not enough evidence that a human rights activist had been targeted. Amnesty International had said that the spyware was used against one of its employees. **~ [News Click](https://draft.blogger.com/blog/post/edit/3389969535589385158/2888603709029730628#)**
+**July 2020**, the Israeli Court Refuses to Revoke Export License of Spyware Maker NSO An Israeli court said that there was not enough evidence that a human rights activist had been targeted. Amnesty International had said that the spyware was used against one of its employees. **~ [News Click]**
 
 2016 'யில் தொடங்கி 2017, 2018, 2019, 2020, 2021 வரை பல பத்திரிகையாளர்கள், தொழிலதிபர்கள், அரசியல்வாதிகள் என பலரும் இந்த Spyware 'யால் பாதிக்கப்பட்டும் பல இனைய பாதுகாப்பை மீறும் தாக்குதல் நடந்தும் அதற்கான எதிர்வினைகளை ஆற்றாமல் மௌனம் காப்பதின் மூலம், அரசு இதனை தேசிய மற்றும் தனிநபர் பாதுகாப்பு விவகாரத்தில் சரிவர கவனிக்கவில்லையா என்ற ஐய்யமும் (அல்லது) அரசும் இதற்க்கு உடந்தையா என்ற கேள்வியும் எழுகிறது! 
 
@@ -69,7 +69,7 @@ Forbidden Stories மற்றும் Amnesty International உடன் இ�
 
 The phone numbers of over **40 Indian journalists** appear on a leaked list of potential targets for surveillance, and forensic tests have confirmed that some of them were successfully snooped upon by an unidentified agency using Pegasus spyware, **The Wire** can confirm. 
 
-The leaked data includes the numbers of top journalists at big media houses like the Hindustan Times, including executive editor Shishir Gupta, India Today, Network18, The Hindu and Indian Express. **~ [The WIRE](https://draft.blogger.com/blog/post/edit/3389969535589385158/2888603709029730628#)** 
+The leaked data includes the numbers of top journalists at big media houses like the Hindustan Times, including executive editor Shishir Gupta, India Today, Network18, The Hindu and Indian Express. **~ [The WIRE]** 
 
 **The list of political leaders and serving Union ministers whose phones were allegedly potential targets of surveillance:**
 
