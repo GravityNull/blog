@@ -5,7 +5,7 @@ layout: page
 description: GravityNull TeaKadai is a simple flash news web app, developed and maintained by Rooban K.
 ---
 
-<img class="img-rounded" src="https://i.ibb.co/1dKY1Vm/Gravity-Null-logo.png" alt="GravityNull" width="200">
+<img class="img-rounded" src="https://lh3.googleusercontent.com/pw/AMWts8Dy3MymPFmo5cyt7rWdJQ7wv57u36_EMEC6HsN7nhVeMvqZ1C4jM3H8KAX7_-7qK-BxUTI59510V1EV5BvvLry0dFzMRT9ijRFqh-M7yAarxDyJizlf3ewuK1YU59RdbyskO5yaC0Jo2jqiDut1-Qrevw=w887-h484-no?authuser=0" alt="GravityNull" width="200">
 
 **GravityNull TeaKadai** is a simple flash news web app, developed and maintained by [**Rooban K.**](https://fb.com/roobenk)  
 
