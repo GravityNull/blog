@@ -1,9 +1,17 @@
-<div class="search-wrapper">
-<div class="search-form">
+
 <svg class="icon-remove-sign"><use xlink:href="#icon-close"></use></svg>
 
+
+<!-- Google CSE Code   
+<div class="search-wrapper">
+<div class="search-form">
+
 <ul class="search-results search-list"> 
-<!-- Google CSE Code     
+
+<input type="text" class="search-field" placeholder="{{ site.translations.text.search | default: 'Search' }}">
+
+Google CSE Code -->  
+    
 <script>
 (function() {
 var cx = '003234057910183980416:geop3oezqse';
@@ -15,12 +23,9 @@ var s = document.getElementsByTagName('script')[0];
 s.parentNode.insertBefore(gcse, s);
 })();
 </script>
-Google CSE Code -->    
-
     
 <gcse:search newWindow="false"></gcse:search>
 </ul>   
-<input type="text" class="search-field" placeholder="{{ site.translations.text.search | default: 'Search' }}">
     
 </div>
 </div>
