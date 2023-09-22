@@ -2,6 +2,8 @@
   font-family: "hind", sans-serif;
   background-image: linear-gradient(to right, white, ivory);
   color: black;
+  border: 1px solid white;
+  margin: 2px;
   text-decoration: none;
   padding: 5px 7px;
   position: relative;
@@ -20,6 +22,8 @@
   font-family: "hind", sans-serif;
   background-image: linear-gradient(to right, #35aee8, #354be8);
   color: white;
+  border: 1px solid white;
+  margin: 2px;
   text-decoration: none;
   padding: 5px 7px;
   position: relative;
@@ -37,6 +41,8 @@
   font-family: "hind", sans-serif;
   background-image: linear-gradient(to right, #F44336, #D32F2F);
   color: white;
+  border: 1px solid white;
+  margin: 2px;
   text-decoration: none;
   padding: 5px 7px;
   position: relative;
@@ -54,6 +60,8 @@
   font-family: "hind", sans-serif;
   background-image: linear-gradient(to right, #26A69A, #00897B);
   color: white;
+  border: 1px solid white;
+  margin: 2px;
   text-decoration: none;
   padding: 5px 7px;
   position: relative;
@@ -71,6 +79,8 @@
   font-family: "hind", sans-serif;
   background-image: linear-gradient(to right, #FFCA28, #FFB300);
   color: black;
+  border: 1px solid white;
+  margin: 2px;
   text-decoration: none;
   padding: 5px 7px;
   position: relative;
@@ -88,6 +98,8 @@
   font-family: "hind", sans-serif;
   background-image: linear-gradient(to right, #AB47BC, #E040FB);
   color: white;
+  border: 1px solid white;
+  margin: 2px;
   text-decoration: none;
   padding: 5px 7px;
   position: relative;
