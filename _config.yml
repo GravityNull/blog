@@ -24,9 +24,9 @@ menu:
   - title: Contact
     url: /contact
   - title: Live News
-    url: /news   
+    url: /news/#gsc.tab=0&gsc.q=தமிழகம்%20&gsc.sort=date
   - title: GravityNull TeaKadai
-    url: /teakadai
+    url: /teakadai/#gsc.tab=0&gsc.q=தமிழகம்%20&gsc.sort=date
 email: gravitynull@yandex.com
 # See: https://disqus.com/
 disqus_username: gravitynull
